@@ -1,0 +1,98 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		37902BC41D373C2B00B425B7 /* _sass */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _sass; sourceTree = "<group>"; };
+		37902BC51D373C2B00B425B7 /* _posts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _posts; sourceTree = "<group>"; };
+		37902BC61D373C2B00B425B7 /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
+		37902BC71D373C2B00B425B7 /* public */ = {isa = PBXFileReference; lastKnownFileType = folder; path = public; sourceTree = "<group>"; };
+		37902BC81D373C2B00B425B7 /* about.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = about.md; sourceTree = "<group>"; };
+		37902BC91D373C2B00B425B7 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
+		37902BCA1D373C2B00B425B7 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		37902BCB1D373C2B00B425B7 /* atom.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = atom.xml; sourceTree = "<group>"; };
+		37902BCC1D373C2B00B425B7 /* styles.scss */ = {isa = PBXFileReference; lastKnownFileType = text; path = styles.scss; sourceTree = "<group>"; };
+		37902BCD1D373C2B00B425B7 /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
+		37902BCE1D373C2B00B425B7 /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config.yml; sourceTree = "<group>"; };
+		37902BCF1D373C2B00B425B7 /* 404.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+		37902BD01D373C2B00B425B7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		37902BD21D3C9E3D00B425B7 /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		37902BBD1D373BF100B425B7 = {
+			isa = PBXGroup;
+			children = (
+				37902BD21D3C9E3D00B425B7 /* CNAME */,
+				37902BCE1D373C2B00B425B7 /* _config.yml */,
+				37902BC41D373C2B00B425B7 /* _sass */,
+				37902BC51D373C2B00B425B7 /* _posts */,
+				37902BC61D373C2B00B425B7 /* _layouts */,
+				37902BC71D373C2B00B425B7 /* public */,
+				37902BC81D373C2B00B425B7 /* about.md */,
+				37902BC91D373C2B00B425B7 /* LICENSE.md */,
+				37902BCA1D373C2B00B425B7 /* index.html */,
+				37902BCB1D373C2B00B425B7 /* atom.xml */,
+				37902BCC1D373C2B00B425B7 /* styles.scss */,
+				37902BCD1D373C2B00B425B7 /* _includes */,
+				37902BCF1D373C2B00B425B7 /* 404.html */,
+				37902BD01D373C2B00B425B7 /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		37902BBE1D373BF100B425B7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = 37902BC11D373BF100B425B7 /* Build configuration list for PBXProject "everydaycomputing.github.io" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 37902BBD1D373BF100B425B7;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		37902BC21D373BF100B425B7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		37902BC31D373BF100B425B7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		37902BC11D373BF100B425B7 /* Build configuration list for PBXProject "everydaycomputing.github.io" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				37902BC21D373BF100B425B7 /* Debug */,
+				37902BC31D373BF100B425B7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 37902BBE1D373BF100B425B7 /* Project object */;
+}
