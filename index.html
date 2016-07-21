@@ -12,8 +12,9 @@ title: Home
       </a>
     </h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
+    <!--<time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>-->
+    
+    <h3 style="color:gray;">{{ post.date |  date: '%B %d, %Y' }}</h3>
     {{ post.content }}
   </article>
   {% endfor %}
