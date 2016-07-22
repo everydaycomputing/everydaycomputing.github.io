@@ -28,7 +28,7 @@ owner:
 
 # Disqus comments configuration (leave blank to disable comments)
 disqus_shortname: 'everydaycomputing'
-google_analytics: UA-81184314-1
+analytics_id: UA-81184314-1
 
 # Assets
 #
