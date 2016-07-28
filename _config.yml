@@ -10,7 +10,7 @@ date_format:          '%B %d, %Y'
 paginate:            4
 baseurl:             ""
 permalink:           pretty
-
+excerpt_separator:  <!--excerpt-->
 
 
 # Owner configuration

@@ -15,8 +15,11 @@ title: Home
     <!--<time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>-->
     
     <h3 style="color:gray;">{{ post.date |  date: '%B %d, %Y' }}</h3>
-    {{ post.content }}
+    {{ post.excerpt }}
+    <a href="{{ site.baseurl }}{{ post.url }}">Read the entire post...</a>
+  <hr/>
   </article>
+  
   {% endfor %}
 </div>
 
