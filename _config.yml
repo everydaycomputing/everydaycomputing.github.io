@@ -3,7 +3,8 @@
 # Setup
 title:               Everyday Computing
 tagline:             
-url:                 http://everydaycomputing.org
+url:                 http://blog.everydaycomputing.org
+
 date_format:          '%B %d, %Y'
 
 # Jekyll configuration
@@ -17,10 +18,10 @@ excerpt_separator:  <!--excerpt-->
 # name and email are required (change code to remove these)
 # (leave the rest blank to disable the corresponding sharing button)
 owner:
-    name: a
-    email: a
-    github:
-    twitter:
+    name:
+    email:
+    github:  everydaycomputing
+    twitter: everydayCS
     linkedin:
     facebook:
     google_plus:
@@ -29,6 +30,15 @@ owner:
 # Disqus comments configuration (leave blank to disable comments)
 disqus_shortname: 'everydaycomputing'
 analytics_id: UA-81184314-1
+
+# Post sharing icons
+sharing:
+    twitter: true
+    linkedin: true
+    facebook: true
+    google_plus: true
+    reddit: true
+
 
 # Assets
 #

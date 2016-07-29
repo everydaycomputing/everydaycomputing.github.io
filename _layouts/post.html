@@ -7,52 +7,24 @@ layout: default
 <!--
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
 -->
-    <h3 style="color:gray;">{{ page.date |  date: '%B %d, %Y' }} {{page.author}} </h3>
-  
+    <h3 style="color:gray;">{{ page.date |  date: '%B %d, %Y' }} {{page.author}}</h3>
+
   {{ content }}
 
 
 </article>
 
-<br/>
-<br/>
+<!-- --------------------------------------------------------------- SHARING -->
+{% include sharing.html %}
+
 <!-- -------------------------------------------------------------- COMMENTS -->
-{% if site.disqus_shortname %}
-<div id="disqus_thread"></div>
-<script>
-    var disqus_shortname  = '{{ site.disqus_shortname }}';
-    var disqus_identifier = '{{ page.url }}';
-    var disqus_title      = '{{ page.title }}';
-    var disqus_url        = '{{ site.url }}{{ page.url }}';
-    
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
-     * THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM
-     * OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-
-    var disqus_config = function () {
-        this.page.url = disqus_url;
-        // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = disqus_identifier;
-        // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = '//everydaycomputing.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-{% endif %}
+{% include disqus.html %}
 
 <br/>
 <br/>
+
 <!-- --------------------------------------------------------- RELATED POSTS -->
+<!--
 {% if site.related_posts != empty %}
 <aside class="related">
   <h3>Related posts</h3>
@@ -68,3 +40,4 @@ layout: default
   </ul>
 </aside>
 {% endif %}
+-->
