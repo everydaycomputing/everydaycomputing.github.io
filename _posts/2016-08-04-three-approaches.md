@@ -18,11 +18,11 @@ Through many interesting and productive conversations, we came to the conclusion
 
 Ultimately we chose the second option: We currently have three independent streams of work happening among three overlapping teams.
 
-*CT as the driver*: One team is hard at work synthesizing information about learning goals from a multitude of CT resources, including scholarly literature, instructional materials, and standards documents.
+**CT as the driver**: One team is hard at work synthesizing information about learning goals from a multitude of CT resources, including scholarly literature, instructional materials, and standards documents.
 
-*Programming as the driver*: Another team is conducting an analysis of the blocks available in Scratch to consider how programming projects might influence elementary mathematics and CT development.
+**Programming as the driver**: Another team is conducting an analysis of the blocks available in Scratch to consider how programming projects might influence elementary mathematics and CT development.
 
-*Mathematics as the driver*: A third team is examining the work of a dedicated group of elementary school teachers who have been integrating computer science into their mathematics classes, using Everyday Mathematics as a baseline.
+**Mathematics as the driver**: A third team is examining the work of a dedicated group of elementary school teachers who have been integrating computer science into their mathematics classes, using Everyday Mathematics as a baseline.
 
 When each of these teams has created trajectories, we plan to study the similarities and differences of their LTs in an effort to create one coherent picture. 
 
@@ -30,7 +30,7 @@ In the coming weeks, we’ll say more about what’s going on in each of these s
 
 ### References ###
 
-[^fn-clememts-2004]:Clements, D. H., & Sarama, J. (2004). Learning trajectories in mathematics education. Mathematical thinking and learning, 6(2), 81-89.
+[^fn-clements-2004]:Clements, D. H., & Sarama, J. (2004). Learning trajectories in mathematics education. Mathematical thinking and learning, 6(2), 81-89.
 
 [^fn-confrey-malone]:Confrey, J., Maloney, A. P., & Corley, A. K. (2014). Learning trajectories: A framework for connecting standards with curriculum. ZDM—The International Journal on Mathematics Education, 46(5), 719-733.
 
