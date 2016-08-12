@@ -8,7 +8,7 @@ author:
 
 ![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost4-Image1.png)
 
-Last week, we [described](http://blog.everydaycomputing.org/2016/08/04/three-approaches/) why we are simultaneously taking three approaches to develop learning trajectories. Today, we’ll tell you about the approach that puts computational thinking (CT) in the driver’s seat.
+Last week, we [described](http://blog.everydaycomputing.org/2016/08/04/three-approaches/){:target="_blank"} why we are simultaneously taking three approaches to develop learning trajectories. Today, we’ll tell you about the approach that puts computational thinking (CT) in the driver’s seat.
 
 To develop this approach, we started with two fundamental questions:
 
@@ -17,7 +17,7 @@ To develop this approach, we started with two fundamental questions:
 
 <!--excerpt-->
 
-We have many sources of information for answering the first question. Research on what children are able to do in friendly programming environments, how work in those environments affects the way children think, and the kinds of non-computer-based activities that can foster computational thinking has been ongoing since the 1980s (e.g. [^fn-resnick-1998] [^fn-nastasi-1992] [^fn-clements-2002] [^fn-dwyer-2014]). Organizations such as the Computer Science Teachers Association (CSTA) and the International Society for Technology in Education (ISTE) have produced standards[^fn-csta-2011] and reference materials[^fn-iste-csta-2011] to guide teachers as they address computational thinking in their classrooms. Many sets of instructional materials have also been created and piloted to facilitate computational thinking instruction (e.g., KELP CS, code.org, ScratchJr, ScratchED, CS Unplugged, etc.).
+We have many sources of information for answering the first question. Research on what children are able to do in friendly programming environments, how work in those environments affects the way children think, and the kinds of non-computer-based activities that can foster computational thinking has been ongoing since the 1980s (e.g. [^fn-resnick-1998] [^fn-nastasi-1992] [^fn-clements-2002] [^fn-dwyer-2014]). Organizations such as the Computer Science Teachers Association (CSTA) and the International Society for Technology in Education (ISTE) have produced [standards](https://csta.acm.org/Curriculum/sub/CurrFiles/CSTA_K-12_CSS.pdf) and [reference materials](http://www.iste.org/docs/ct-documents/ct-teacher-resources_2ed-pdf.pdf) to guide teachers as they address computational thinking in their classrooms. Many sets of instructional materials have also been created and piloted to facilitate computational thinking instruction (e.g., KELP CS, code.org, ScratchJr, ScratchED, CS Unplugged, etc.).
 
 Having rich sources of information, though, is only half the battle. To create a learning trajectory, we must have a strategy for organizing the information into a coherent picture. A number of factors make this a challenging task. Interpretation of research on computational thinking is hindered by a lack of consensus on a definition of computational thinking and how it is different from computer science. Lack of consistent definitions and vocabulary make it difficult to draw connections across studies. And not only is computer science a relatively new field from a professional standpoint, it is a brand new subject to elementary schools, making it difficult to study CT in authentic school contexts or understand how laboratory research might guide implementation of CT instruction in school settings.
 
