@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Three Approaches to Trajectory Building
-date: 2016-08-4
+date: 2016-08-04
 published: true
 author: 
 ---
