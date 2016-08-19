@@ -6,9 +6,6 @@ published: true
 author: 
 ---
 
-![Figure 1](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost5-Image1.png)
-<br/>Figure 1. A rotation block using increasingly sophisticated mathematical inputs for CCSS-M-designated grade levels.
-
 This week, we continue on our quest to answer questions that will lead to an integrated mathematics / computational thinking curriculum.  [Last week](http://blog.everydaycomputing.org/2016/08/04/three-approaches/){:target="_blank"}, we looked at how to create computational thinking learning goals and tie those to grade levels. A complementary approach  is to imagine how we might create activities that align to particular grade levels. This week, we’re looking at one type of connection between mathematics and computer science via programming activities. While programming is not the only type of activity that can support computational thinking, it is an important, concrete venue in which to apply computational thinking skills.
 
 <!--excerpt-->
@@ -17,6 +14,10 @@ There are several aspects to a programming activity -- the context of the activi
 
 In order to better understand the connections between mathematics and Scratch blocks, we identified the mathematical dependencies for each block and the grade level for which those concepts are introduced in the Common Core State Standards for Mathematics (CCSS-M). Several common blocks (e.g. position, changing size, pausing execution) have mathematical dependencies in 5th grade or higher[^fn-hill-2015]. Student success in Scratch can be very correlated with academic achievement in other subjects[^fn-seiter-13], and we would like to better target learning environments so that more students can succeed.
 
+
+![Figure 1](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost5-Image1.png)
+<br/>Figure 1. A rotation block using increasingly sophisticated mathematical inputs for CCSS-M-designated grade levels.
+<br/>
 
 So, we did what all good researchers do -- we made stuff up! We took the existing block, placed it into the CCSS-M-designated grade level, and reasoned about how one could accomplish similar (if not as precise) actions with a block that has fewer or different mathematical dependencies. What resulted were strands of blocks that students controlled using increasingly sophisticated mathematical inputs. Figure 1 shows the rotation block as an example. It transitions from a picture, then through various mathematical notations for fractions (a fraction of a turn), leading to the ending block that uses degrees.
 
