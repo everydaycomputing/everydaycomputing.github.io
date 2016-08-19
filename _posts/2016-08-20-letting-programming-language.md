@@ -6,7 +6,8 @@ published: true
 author: 
 ---
 
-![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost5-Image1.png)
+![Figure 1](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost5-Image1.png)
+<br/>Figure 1. A rotation block using increasingly sophisticated mathematical inputs for CCSS-M-designated grade levels.
 
 This week, we continue on our quest to answer questions that will lead to an integrated mathematics / computational thinking curriculum.  [Last week](http://blog.everydaycomputing.org/2016/08/04/three-approaches/){:target="_blank"}, we looked at how to create computational thinking learning goals and tie those to grade levels. A complementary approach  is to imagine how we might create activities that align to particular grade levels. This week, we’re looking at one type of connection between mathematics and computer science via programming activities. While programming is not the only type of activity that can support computational thinking, it is an important, concrete venue in which to apply computational thinking skills.
 
