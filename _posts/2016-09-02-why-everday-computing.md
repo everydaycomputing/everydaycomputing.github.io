@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why “Learning Trajectories for Everyday Computing"?
+title: Why “Learning Trajectories for Everyday Computing?"
 date: 2016-09-02
 published: true
 author: 
