@@ -1,14 +1,14 @@
 ---
 layout: post
-title: The ISTE Poster: CTRL-Shift joins LTEC
-date: 2016-09-9
+title: 'The ISTE Poster: CTRL-Shift joins LTEC'
+date: 2016-09-09
 published: true
-author: 
+author:
 ---
 
 Last June, we prepared a [poster](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/ISTEM_2016poster.pdf) for presentation at the International Society for Technology in Education (ISTE) Annual Conference in Denver, CO[^fn-israel-itse]. 
 
-![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost8-Image1.png)
+<!-- ![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost8-Image1.png) -->
 
 <!--excerpt-->
 
