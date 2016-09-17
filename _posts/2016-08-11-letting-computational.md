@@ -6,7 +6,7 @@ published: true
 author: 
 ---
 
-![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost4-Image1.png)
+![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/blog/BlogPost4-Image1.png)
 
 Last week, we [described](http://blog.everydaycomputing.org/2016/08/04/three-approaches/){:target="_blank"} why we are simultaneously taking three approaches to develop learning trajectories. Today, we’ll tell you about the approach that puts computational thinking (CT) in the driver’s seat.
 
