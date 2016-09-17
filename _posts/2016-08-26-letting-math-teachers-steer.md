@@ -7,7 +7,7 @@ author:
 ---
 
 
-![](https://dl.dropboxusercontent.com/u/7093695/IMG_1189.JPG)
+![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/blog/BlogPost6-Image1.png)
 
 In the last 3 posts we talked about our different approaches to building learning trajectories (LTs). This third and final approach acknowledges the work being done by dedicated teachers in mathematics classrooms all over the country. <!--excerpt-->For many early adopters, anxious to find a way to include Computer Science or computational thinking (CT) in their students’ day, the mathematics classroom seemed the path of least resistance. This trajectory approach allows us to use their work to find “waypoints” which would “form the backbone for curriculum and instructionally meaningful assessments and performance standards”[^fn-daro-2011] but still hold onto the joy of exploration. The LTEC project includes several teacher collaborators who have been performing this CT-Math balancing act in their classrooms.
 
