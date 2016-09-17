@@ -6,7 +6,7 @@ published: true
 author: 
 ---
 
-![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost7-Image1.png)
+![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/blog/BlogPost7-Image1.png)
 
 What’s in a name? When we proposed our project to NSF in early 2015, we called it “Learning Trajectories for Integrating K-5 Computer Science and Mathematics.” Although the name wasn’t the greatest, it was reasonably descriptive and apparently good enough for NSF. But once we were funded and got going, we decided we wanted a better name, one that would express the larger program of work in which the project is embedded. After some ado, we came up with “Learning Trajectories for Everyday Computing” (LTEC). We’d like to explain the thinking behind this name.
 
