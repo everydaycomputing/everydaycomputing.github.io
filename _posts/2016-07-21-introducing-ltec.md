@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/blog/BlogPost1-Image1.png)
+![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/blog/BlogPost1-Image1.jpg)
 
 Teachers are constantly told to teach more: more non-fiction, more technology, more engineering, more financial literacy, more problem solving, more foreign languages -- more of lots of great things that students should learn, but more than there’s time to teach well.
 
