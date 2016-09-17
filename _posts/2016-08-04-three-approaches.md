@@ -6,7 +6,7 @@ published: true
 author: 
 ---
 
-![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/blog/BlogPost3-Image1.jpg)
+![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/blog/BlogPost3-Image1.png)
 
 The overall goal of the LTEC project is relatively simple: to develop and test learning trajectories (LTs) for integrated mathematics and computational thinking in elementary school. Yet the easy statement of our goal belies its difficulty. Many questions come to mind immediately. How many trajectories will we need to create? Can computational thinking (CT) be integrated with all mathematics understandings, skills, and practices? If not, which ones are the best candidates? Conversely, can all aspects of CT be addressed via integration with mathematics? How do we strike a balance between taking advantage of the similarities between CT and mathematical problem-solving and giving them their due as separate skill sets? 
 
