@@ -1,10 +1,10 @@
 
 
 # Setup
-title:               Everyday Computing
+title:            Everyday Computing
 tagline:             
-url:                 http://blog.everydaycomputing.org
-
+url:              http://blog.everydaycomputing.org
+images:           https://github.com/everydaycomputing/everydaycomputing.github.io/raw/master/public/images/
 date_format:          '%B %d, %Y'
 
 # Jekyll configuration

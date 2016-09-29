@@ -15,7 +15,7 @@ There are several aspects to a programming activity -- the context of the activi
 In order to better understand the connections between mathematics and Scratch blocks, we identified the mathematical dependencies for each block and the grade level for which those concepts are introduced in the Common Core State Standards for Mathematics (CCSS-M). Several common blocks (e.g. position, changing size, pausing execution) have mathematical dependencies in 5th grade or higher[^fn-hill-2015]. Student success in Scratch can be very correlated with academic achievement in other subjects[^fn-seiter-13], and we would like to better target learning environments so that more students can succeed.
 
 
-![Figure 1](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/BlogPost5-Image1.png)
+![Figure 1]({{ site.images }}/images/BlogPost5-Image1.png)
 <br/>Figure 1. A rotation block using increasingly sophisticated mathematical inputs for CCSS-M-designated grade levels.
 <br/>
 

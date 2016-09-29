@@ -6,9 +6,9 @@ published: true
 author:
 ---
 
-Last June, we prepared a [poster](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/blog/ISTE_2016poster.pdf) for presentation at the International Society for Technology in Education (ISTE) Annual Conference in Denver, CO[^fn-israel-itse]. 
+Last June, we prepared a [poster]({{ site.images }}/blog/ISTE_2016poster.pdf) for presentation at the International Society for Technology in Education (ISTE) Annual Conference in Denver, CO[^fn-israel-itse]. 
 
-![](https://googledrive.com/host/0B3XzcKIiWyccNXdGbDVqNVZCTm8/images/blog/BlogPost8-Image1.png)
+![]({{ site.images }}/blog/BlogPost8-Image1.png)
 
 <!--excerpt-->
 
