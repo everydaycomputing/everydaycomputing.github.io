@@ -6,6 +6,9 @@ published: true
 author: 
 ---
 
+
+![]({{ site.images }}/blog/BlogPost10-Image1.png)
+
 A few weeks ago we talked about our third approach to building learning trajectories (LTs). The title of that post, [“Letting Math Teachers Steer,”](http://blog.everydaycomputing.org/2016/08/26/letting-math-teachers-steer) was somewhat hotly debated within the group, as some of us really thought of the math teachers as “driving” rather than just “steering.” With all those feelings stirred up, we had more to say about why we work so closely with teachers.
 
 Though the LTEC project has specific research and development goals that we’ve discussed in other posts, the project staff is interested in a broader mission of supporting the spread of computational thinking instruction to all students. One strategy for doing this is to initiate and contribute to conversations about computational thinking in a variety of fields and with a variety of interested organizations.
