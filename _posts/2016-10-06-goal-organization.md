@@ -16,6 +16,9 @@ In a [previous post](http://blog.everydaycomputing.org/2016/08/11/letting-comput
 
 We’re excited to be coming to the end of our focused efforts on collection. Though we expect that more articles will be added to the database over time, we have nearly completed our reviews of our initial pool of scholarly literature. From 109 articles, we extracted 678 learning goals. The collection of articles included empirical studies, analyses of student artifacts, explanations of taxonomies, comparisons of programming environments, and more, and the variety in article types is mirrored in the variety of the learning goals themselves. The goals run the gamut in terms of content, support, and level of specificity.
 
+<!--excerpt-->
+
+
 Here is just a sampling:
   - “[U]nderstand the limits of computers and computation.” (Armoni and Gal-Ezer, 2014, p. 56)[^fn-armoni-2014]
   - “Recogniz[e] the need for … step-by-step instructions.” (Dwyer et al., 2013, p. 135)[^fn-dwyer-2013]
