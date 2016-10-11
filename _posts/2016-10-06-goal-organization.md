@@ -6,8 +6,6 @@ published: true
 author: 
 ---
 
-![]({{ site.images }}/blog/20161006-Image1.png)
-
 In a [previous post](http://blog.everydaycomputing.org/2016/08/11/letting-computational/), we detailed the four steps we’re following to build learning trajectories from the computer science education research literature:
   - **Collect** goals from the literature;
   - **Sort** the goals into manageable groups;
