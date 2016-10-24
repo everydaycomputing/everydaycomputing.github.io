@@ -11,7 +11,7 @@ A couple weeks ago we had a great time presenting at [2016 Annual Meeting](http:
 <!--excerpt-->
 <table>
   <tr>
-    <td style="width: 150px;">Andy Isaacs</td><td style="width: 150px;">[Slides]({{ site.images }}/blog/BlogPost13/Isaacs_CS for All ICSM 20161007.pdf)</td>
+    <td style="width: 150px;">Andy Isaacs</td><td style="width: 150px;"><a href="{{ site.images }}/blog/BlogPost13/Isaacs_CS for All ICSM 20161007.pdf">Slides</a></td>
   </tr>
   <tr>
     <td><img src="{{ site.images }}/people/andy_isaacs.jpg" class="img-circle timeline-image" alt=""></td>
@@ -20,7 +20,7 @@ The recently passed Every Student Succeeds Act identifies Computer Science as pa
   </tr>
 
   <tr>
-    <td>George Reese</td><td>[Slides]({{ site.images }}/blog/BlogPost13/Isaacs_CS for All ICSM 20161007.pdf)</td>
+    <td>George Reese</td><td><a href="{{ site.images }}/blog/BlogPost13/Isaacs_CS for All ICSM 20161007.pdf">Slides</a></td>
   </tr>
   <tr>
     <td><img src="http://everydaycomputing.org/static/img/portfolio/reese.jpg" class="img-circle timeline-image" alt=""></td>
@@ -30,7 +30,7 @@ We will share a set of classroom-ready activities for connecting middle school m
 
   <tr>
     <td>Andrew Binkowski and Katie Rich</td>
-    <td>[Slides]({{ site.images }}/blog/BlogPost13/2016-ICTM-Binkowski-Rich.pdf)</td>
+    <td><a href="{{ site.images }}/blog/BlogPost13/2016-ICTM-Binkowski-Rich.pdf">Slides</a></td>
   </tr>
   <tr>
     <td><img src="http://everydaycomputing.org/static/img/portfolio/andrewb.jpg" class="img-circle timeline-image" alt="">
@@ -42,7 +42,7 @@ Many have attempted to define computational thinking (CT) and associated learnin
 
   <tr>
     <td>Carla Strickland and Katie Rich</td>
-    <td>[Slides]({{ site.images }}/blog/BlogPost13/Strickland-Rich_TouchingScreenSlides.pdf)</td>
+    <td><a href="{{ site.images }}/blog/BlogPost13/Strickland-Rich_TouchingScreenSlides.pdf">Slides</a></td>
   </tr>
   <tr>
    <td><img src="http://everydaycomputing.org/static/img/portfolio/carla.jpg" class="img-circle timeline-image" alt="">
@@ -54,7 +54,7 @@ Concrete manipulatives have been used in classrooms for years. Now digital manip
 
   <tr>
     <td>Quentin Wherfel</td>
-    <td>[Slides]({{ site.images }}/blog/BlogPost13/Wherfel- ICTM (2016, OCT).pdf)</td>
+    <td><a href="{{ site.images }}/blog/BlogPost13/Wherfel- ICTM (2016, OCT).pdf">Slides</a></td>
   </tr>
   <tr>
    <td><img src="http://everydaycomputing.org/static/img/portfolio/Wherfel.jpg" class="img-circle timeline-image" alt=""></td>
@@ -64,7 +64,7 @@ In this session, we will briefly discuss some of the research behind academic pe
 
   <tr>
     <td>Todd Lash and Minsoo Park</td>
-    <td>[Slides]({{ site.images }}/blog/BlogPost13/Lash_ICTM Poster Session 2016.pdf)</td>
+    <td><a href="{{ site.images }}/blog/BlogPost13/Lash_ICTM Poster Session 2016.pdf">Slides</a></td>
   </tr>
   <tr>
   <td><img src="http://everydaycomputing.org/static/img/portfolio/lash.jpeg" class="img-circle timeline-image" alt="">
@@ -76,7 +76,7 @@ There is a natural intersection between computer science and mathematics.  Can t
 
   <tr>
     <td>Maya Israel</td>
-    <td>[Slides]({{ site.images }}/blog/BlogPost13/Israel_ICTM presentation.pptx.pdf)</td>
+    <td><a href="{{ site.images }}/blog/BlogPost13/Israel_ICTM presentation.pptx.pdf">Slides</a></td>
   </tr>
   <tr>
     <td><img src="http://everydaycomputing.org/static/img/portfolio/Maya.png" class="img-circle timeline-image" alt=""></td>
