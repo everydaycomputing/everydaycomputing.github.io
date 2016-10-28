@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Student Conversations During computing'
+title: 'Student conversations during computing: How are students collaborating while computing?'
 date: 2016-10-27
 published: true
 author:
