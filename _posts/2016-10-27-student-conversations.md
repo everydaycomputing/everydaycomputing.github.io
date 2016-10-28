@@ -8,14 +8,14 @@ author:
 
 Within the LTEC project, we are developing learning trajectories for integrated mathematics and computing. In addition to examining the literature and existing curricula for both implicit and explicit goals and learning progressions, we also examine implementation of integrated mathematics and computing in existing elementary classrooms. As part of this work, we conduct classroom observations and interviews with teachers, and make video screen recordings of students as they complete computing tasks. We use these multiple data sources in order to gain a more robust understanding of how these integrated lessons are developed and taught by the teachers as well as how students are engaging in the process of computing.
 
+![]({{ site.images }}/blog/post14/image00.png)
+Figure 1: Example of C-COI interface
+
 <!--excerpt-->
 
 A fun aspect of this data analysis involves watching videos of students’ computer screens as they attempt to solve computational problems and listening to their conversations within the integrated mathematics and computing lessons. We use software called [Screencastify](https://www.screencastify.com/), a simple video screen recorder for the Google Chrome web browser. This software allows us to hear the conversations that students have and see video of the students’ computer screens as they work on computer programming activities related to their mathematics instruction.
 
 We use the **Collaborative Computing Observation Instrument** (the C-COI; Israel et al., in press), to analyze the recordings of the on-screen individual and collaborative behaviors of students as they engage in computing activities. This instrument allows us to code what the students are doing, whether they are struggling with the task, whether their difficulty is related to the mathematics or the computing, and how they interact with peers and teachers. It also allows for us to input extensive field notes such as transcriptions of conversations and descriptions of the computing and mathematics tasks.
-
-![]({{ site.images }}/blog/post14/image01.png)
-Figure 1: Example of C-COI interface
 
 
 We began by observing nine purposefully selected students to learn about the types of collaborative interactions they had during computing activities. Each student was observed at least three times in order to gain a more complete picture of their computational interactions. Overall, we analyzed 29 separate videos with each video approximately 25 minutes in length. This data analysis revealed three main types of interactions.
@@ -28,7 +28,7 @@ We began by observing nine purposefully selected students to learn about the typ
 **Collaborative problem solving:** This type of discourse accounted for about 50% of student-student and teacher-student interactions. These interactions typically occurred when students needed help with solving a problem they faced during the computing task. For example, when some students programmed simulations of fraction word problems, they did not have a strong command of conditionals such as `if_______`, `then ______`, `else ________`. They often tried working through their code independently and then asked a peer or the teacher to help them. Other students struggled with the mathematics and asked for help with creating fraction word problems.
 
 
-![]({{ site.images }}/blog/post14/image02.png)
+![]({{ site.images }}/blog/post14/image01.png)
 Figure 2: An example of a fraction word problem
 
 **Excitement, Curiosity, and Accomplishment:** A little less than one-fifth of all interactions that we analyzed fell into the category of the student expressing excitement, curiosity or accomplishment. Often students’ conversations in the integrated mathematics and CS/CT lessons related to either expressing excitement and accomplishment about something that they correctly programmed or curiosity about the work of a friend. For example, if a student finally debugged their program, they often expressed their excitement or if their peer created an animation that they were unfamiliar with, they would say something such as, “Cool, how did you do that?”
