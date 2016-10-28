@@ -3,7 +3,7 @@ layout: post
 title: 'Goal Organization: From Chaos to Coherence'
 date: 2016-10-06
 published: true
-author: 
+author:
 ---
 
 In a [previous post](http://blog.everydaycomputing.org/2016/08/11/letting-computational/), we detailed the four steps we’re following to build learning trajectories from the computer science education research literature:
@@ -23,9 +23,9 @@ Here is just a sampling:
   - “[U]se a solution as a component in a larger problem.” (Fuller et al., 2007, p. 165)[^fn-fuller-2007]
   - “[A]ppropriately choose among loop constructs.” (Taylor et al., 2014, p. 270)[^fn-taylor-2014]
 
-Excited to have such a rich collection of learning goals to work with, we sat down to begin the process of sorting and ordering the goals. And we promptly realized that we were not sure what to do next. 
+Excited to have such a rich collection of learning goals to work with, we sat down to begin the process of sorting and ordering the goals. And we promptly realized that we were not sure what to do next.
 
-Our goal is to look for similarities across goals and create groups that support generalizations such as this: “Four experts have theorized that children in grades K-2 can effectively debug programs with simple errors. Two empirical studies support this theory, providing evidence that Kindergarteners and first graders can fix bugs that involve changes in sequence or missing instructions.” But alas, inspection of the data did not suggest clear ways to do this. Manual sorts by different staff members led to disparate results, and subtle differences among goals made us nervous about automated methods. The key question we’re struggling with is: To what extent should our value judgements be used to organize the goals? That is, when is human judgement necessary for this task, and when does it bias the results? 
+Our goal is to look for similarities across goals and create groups that support generalizations such as this: “Four experts have theorized that children in grades K-2 can effectively debug programs with simple errors. Two empirical studies support this theory, providing evidence that Kindergarteners and first graders can fix bugs that involve changes in sequence or missing instructions.” But alas, inspection of the data did not suggest clear ways to do this. Manual sorts by different staff members led to disparate results, and subtle differences among goals made us nervous about automated methods. The key question we’re struggling with is: To what extent should our value judgements be used to organize the goals? That is, when is human judgement necessary for this task, and when does it bias the results?
 
 To answer this question, we chose a subset of goals, namely, the goals tagged as focusing on ideas of debugging or efficiency, and began a two-pronged approach at organization. One approach is to apply automated clustering techniques based on keywords, relevance measures, and so forth. The other approach is to have various project staff members sort the goals into groups and then “triangulate our value judgements” by conducting cluster analyses that use the categories defined by individuals to help define categories that are representative of our collective expertise.
 
