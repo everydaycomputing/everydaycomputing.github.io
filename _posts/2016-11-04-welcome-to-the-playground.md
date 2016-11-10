@@ -10,6 +10,7 @@ In September, Apple unveiled a new programming environment alongside iOS10 that 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Apple_II_tranparent_800.png/600px-Apple_II_tranparent_800.png)
 _Figure 1: An Apple ][ computer in 1982._
+<!--excerpt-->
 
 ## Apple in Education
 To understand the significance of this new release, it is useful to have an understanding of Apple in education.  Historically, Apple has had a very strong presence in education, but predominantly from a hardware perspective.  Beige Apple ][s were a fixture in elementary school libraries in the 80's while brightly colored iMacs lined tables in 90's.  The refined industrial design and more approachable interfaces made them attractive for schools (and parents), despite the high costs. In 1984 an Apple ][ cost $2,638 (approximately $7,000 after adjusting to 2016 dollars).   As lower cost PCs flooded schools and the Internet browser brought parity through online software titles, Apple [lost considerable marketshare in education](http://www.macworld.com/article/1006764/education.html).  Efforts to appeal directly to the education market with the eMac in the early 2000s, failed to revive its position.
