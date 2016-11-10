@@ -2,7 +2,7 @@
 layout: post
 title: 'Welcome to the Playground'
 date: 2016-11-04
-published:
+published: true
 author:
 ---
 
