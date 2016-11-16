@@ -7,6 +7,8 @@ published: true
 author:
 ---
 
+![](assets/2016-11-11-shared-language-b2f0edf1.png)
+
 When looking at the subject-specific terminology used in mathematics and computer science, the two disciplines appear to be fast friends. Computer scientists develop algorithms; so do mathematicians. Mathematicians abstract away details of a problem situation and focus on underlying structures; so do computer scientists. Computer scientists use variables to represent changing quantities; so do mathematicians. It’s natural to assume compatibility between processes and areas of focus that are described using the same words. But can this assumed compatibility hold up to careful scrutiny?
 
 
@@ -18,9 +20,9 @@ One of the most interesting themes that has come up in discussions among our pro
 
 Sometimes these differences are captured in published definitions of the term. Consider these definitions of [variable](http://www.oed.com/view/Entry/4959?redirectedFrom=algorithm#eid) (n) from the Oxford English Dictionary:
 
-  “a. Math. and Physics. A quantity or force which, throughout a mathematical calculation or investigation, is assumed to vary or be capable of varying in value.”
+> “a. Math. and Physics. A quantity or force which, throughout a mathematical calculation or investigation, is assumed to vary or be capable of varying in value.”
 
-  “b. Computing. A data item that can take on more than one value during or between programs and is stored in a particular designated area of memory; the area of memory itself; (also variable name) the name referring to such an item or location.”
+>“b. Computing. A data item that can take on more than one value during or between programs and is stored in a particular designated area of memory; the area of memory itself; (also variable name) the name referring to such an item or location.”
 
 
 In both cases, a variable is a representation of a value that can change. However, this is where the similarity ends.
@@ -33,7 +35,7 @@ In computer science, however, a variable designates a name for a memory location
 
 For other words, the definition itself states that the two disciplines define a term the same, but their usage in the two fields may be different. Consider the Oxford English Dictionary’s definition of [algorithm]( Bell, M., Bell, J., Bretzlauf, J., Dillard, A., Flanders, J., .... Saecker, P. 2012. Everyday Mathematics Teacher’s Reference Manual, Grades 4-6. Chicago, IL: McGraw-Hill Education.) (n):
 
-  “2. Math. and Computing. A procedure or set of rules used in calculation and problem-solving; (in later use spec.) a precisely defined set of mathematical or logical operations for the performance of a particular task.”
+> “2. Math. and Computing. A procedure or set of rules used in calculation and problem-solving; (in later use spec.) a precisely defined set of mathematical or logical operations for the performance of a particular task.”
 
 
 Our internal team conversations quickly exposed issues with the assumed compatibility of this shared definition – enough that we need a follow-up post to fully discuss these issues. In mathematics, students often use pre-defined algorithms which work well to operate on entire classes of inputs (e.g. addition algorithm). In CS, there is far greater variety, with algorithms being invented for computers to follow.
