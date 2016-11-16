@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Welcome to the Playground'
-date: 2016-11-04
+title: 'Shared language, differing meanings.
+When do the differences matter?'
+date: 2016-11-11
 published: true
 author:
 ---
