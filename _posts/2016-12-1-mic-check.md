@@ -5,7 +5,7 @@ date: 2016-12-1
 published: true
 author:
 ---
-t
+
 Microphone Check: One, Two, What is This?[^link-tribe-called-quest] We are 16+ blog posts into a social experiment -- blogging as a way to partially satisfy our [dissemination mandate from NSF](https://www.nsf.gov/bfa/dias/policy/dmp.jsp). At the time, it seemed a somewhat novel approach for a group so focused on mathematics and computer science education research. While it is true that a blog cannot match the traditional vehicles for presenting results: papers, presentations, etc., we thought it might be a great way to memorialize many of the meaningful team conversations that take place frequently over the life of a project. Research findings can be presented in a paper, but our experience over the years has taught us that there are many other "aha" moments -- large and small insights that shift our ways of thinking. These moments occur as we work together, particularly when the group is interdisciplinary. So then, we think of the LTEC blog as a way to create artifacts -- lingering records of these conversations -- for ourselves and for others. It may be vain, or at least self-indulgent, to think that others may benefit from our own evolution record, but we have all had that moment, listening to a colleague’s tale of conversations past, when we feel a ripple of excitement, an echo of a life-changing “aha” moment. Oh to have been a fly on the wall when that went down! The questions we would ask! The kudos we would give! …
 
 <!--excerpt-->
