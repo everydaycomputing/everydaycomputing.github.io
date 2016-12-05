@@ -16,5 +16,4 @@ So we’ve been writing -- trying to speak with the voice of the project -- hopi
 
  [^link-tribe-called-quest]:Lyrics from the late, great Phife Dawg, from A Tribe Called Quest ... because some of us speak rap.
 
-[^link-google-analytics]:Google Analytics does tell us that about half our
-readers are coming back for more.
+[^link-google-analytics]:Google Analytics does tell us that about half of our readers are coming back for more.
