@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="http://everydaycomputing.org/static/img/portfolio/rich.jpg" style="float:left">
+<img src="http://everydaycomputing.org/static/img/portfolio/rich.jpg" style="float:right;padding:20px;">
 Hello, everyone. In an effort to add variety and interest to our blog posts, we’re starting a new series of staff profiles. We hope you’ll enjoy learning a little bit about us and be inspired to share a bit about yourselves and your interests in the comment section.
 
 <!--excerpt-->
