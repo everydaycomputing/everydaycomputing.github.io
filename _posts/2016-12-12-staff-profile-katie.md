@@ -10,7 +10,7 @@ Hello, everyone. In an effort to add variety and interest to our blog posts, weâ
 
 <img src="http://everydaycomputing.org/static/img/portfolio/rich.jpg">
 
-<!-- excerpt -->
+<!--excerpt-->
 
 I volunteered to go first, so here goes:
 
