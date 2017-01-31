@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-*Guest blog post by Outlier Research & Evaluation | UChicago STEM Education’s Sarah Wille – PI of the CSP and Students with Learning Differences study*
+*Guest blog post by Outlier Research & Evaluation, UChicago STEM Education’s Sarah Wille – PI of the CSP and Students with Learning Differences study*
 
 As computing learning opportunities expand across the country, we must ask the practical question: How do we work toward a more accessible computer science (CS) for students with *specific learning disabilities* and/or *attention deficit disorders*? Students with these types of learning-based differences are often lost in conversations about diversifying CS. In an NSF-supported study I lead with colleagues at [Outlier Research & Evaluation and the Wolcott School](http://stemforall2016.videohall.com/presentations/677), we refer to these students as *students with learning differences or students who learn differently*. Our work is exploring ways to make CS – and the new [AP Computer Science Principles (CSP)](https://advancesinap.collegeboard.org/stem/computer-science-principles) course specifically – more accessible for these particular learners.
 
@@ -23,7 +23,7 @@ Adjustments of either type can be made to various aspects of a lesson including 
 
 **Strategies to Address Potential Barriers in CS Lessons**: Learning Specialist Suggestions: At this point in the project, our team learning specialists have compiled a list of the general strategies we use in our project in activities that are common across CSP as well as other CS classes. For example, many CS classrooms include a mix of activities (such as whole class discussions, partner or small group work, or reading and writing in general activities and assessments) that can pose challenges for students with learning differences (and particularly those with challenges related to language, reading, attention, and written expression). Our preliminary research is finding that when some alternate instructional approaches are used during these activities, students who learn differently because of a learning or attention disorder are more able to access the CS curriculum and participate in lesson activities. Here are a few sample instructional strategies.
 
-![](public/images/blog/2017-01-30-making-cs-accessible-a901f.png)
+![](/public/images/blog/2017-01-30-making-cs-accessible-a901f.png)
 
 **Strategies to Support CS Learning**: Student Suggestions: Our high school student research team members have also provided us with useful information about the practices happening in the CSP class that they find particularly helpful to their learning of CS. Here are a few examples of general educator instructional practices that students have identified over the last year as particularly helpful learning supports:
 
