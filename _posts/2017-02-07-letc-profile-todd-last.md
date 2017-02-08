@@ -22,11 +22,11 @@ author:
 **What I do with my spare time**: I love to spend time with my son (9 y.o.), my wife, and my dog Marley. I also love to cook and I am continually finding new dishes to try or creating things on my own. I enjoy lifting weights, working outside, and tinkering with things I probably have no business tinkering with.
 
 **Fun facts**:
-* I was once kidnapped while in Jamaica.
-* I survived a tornado hitting my house when I was 8.
-* I have to have shots in my eyes regularly to keep me from going blind.
+  * I was once kidnapped while in Jamaica.
+  * I survived a tornado hitting my house when I was 8.
+  * I have to have shots in my eyes regularly to keep me from going blind.
 
 **Connect with me**:
-* Twitter: [@Todd_Lash](http://twitter/todd_lash)
-* LinkedIn: [profile](https://www.linkedin.com/in/lashtodd/)
-* Email: [toddlash.edu@gmail.com](toddlash.edu@gmail.com)
+  * Twitter: [@Todd_Lash](http://twitter/todd_lash)
+  * LinkedIn: [profile](https://www.linkedin.com/in/lashtodd/)
+  * Email: [toddlash.edu@gmail.com](toddlash.edu@gmail.com)
