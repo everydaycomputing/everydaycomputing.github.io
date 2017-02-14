@@ -34,13 +34,12 @@ Recently, a group of pre-service elementary school math teachers met for an hour
 This becomes both the joy and the challenge. How long should one spend on the personalization and  how long on the academic content? We have all seen the students who will spend minutes going into hours finding just the right sprite and background.
 This suggests one terrible cure for Frankel’s disease: make a curriculum so structured that there are no opportunities to jump off. This is very tempting for some. Teachers love structure. It keeps order. Students stay “on task.” And management struggles will always make curriculum coverage difficult. But, it is also a real danger, as limiting students’ explorations can prevent them from seeing the wonderful possibilities that learning computing makes available to them. So, teachers and curriculum developers alike have to take the risk and find the balance of open exploration and guided instruction.
 
-### References ###
-
-[^fn-scratch]:
- For the design principles behind Scratch see, Resnick, M., Silverman, B., Kafai, Y., Maloney, J., Monroy-Hernández, A., Rusk, N., et al. (2009). Scratch: programming for all. Communications of the ACM, 52(11), 60.
-
-
 ---
 Cite this post:
 
 LTEC Project Team. (2017, February 13). Frankel’s Disease [Web log post]. Retrieved from {{ site.baseurl }}{{ post.url }}
+
+
+### References ###
+[^fn-scratch]:
+ For the design principles behind Scratch see, Resnick, M., Silverman, B., Kafai, Y., Maloney, J., Monroy-Hernández, A., Rusk, N., et al. (2009). Scratch: programming for all. Communications of the ACM, 52(11), 60.
