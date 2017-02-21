@@ -21,7 +21,7 @@ The following is a story told by physicist, Richard Feynman as part of recountin
 
 <!--excerpt-->
 
-“Absolutely useless.” Of course, if you’re trying to win WWII and spending time using one of the first electronic computers to reproduce tables that already exist, contracting Frankel’s disease is a problem. However, if you are a new teacher or a young person learning take control of a machine that is now a ever-present part of our lives, Frankel’s disease is a wonderful thing to catch. As we in the LTEC group work with teachers who are new to coding, we see that they are often very anxious about what they don’t know at first. But with a low-floor, high-ceiling programming environment like Scratch[^fn-scratch], they are quickly transfixed by the possibilities.
+“Absolutely useless.” Of course, if you’re trying to win WWII and spending time using one of the first electronic computers to reproduce tables that already exist, contracting Frankel’s disease is a problem. However, if you are a new teacher or a young person learning take control of a machine that is now a ever-present part of our lives, Frankel’s disease is a wonderful thing to catch. As we in the LTEC group work with teachers who are new to coding, we see that they are often very anxious about what they don’t know at first. But with a low-floor, high-ceiling programming environment like Scratch[^fn-scratch-2], they are quickly transfixed by the possibilities.
 
 Once a few blocks are put into place and the sprites begin to move, teachers’ imaginations are kindled and questions follow. As part of our work, we use a [manual](http://www.4-hmall.org/Product/4-hcurriculum-computer/discovering-computer-science-programming-through-scratch-level-1-set-of-2/01607S.aspx) that guides them through activities that introduce the concepts of sequence, iteration, conditionals, variables, and modularity. A minority of teachers will work straight through the manual. However, typically teachers catch Frankel’s disease, see something that sparks their interest, and follow that tangent away from the manual.
 
@@ -34,12 +34,9 @@ Recently, a group of pre-service elementary school math teachers met for an hour
 This becomes both the joy and the challenge. How long should one spend on the personalization and  how long on the academic content? We have all seen the students who will spend minutes going into hours finding just the right sprite and background.
 This suggests one terrible cure for Frankel’s disease: make a curriculum so structured that there are no opportunities to jump off. This is very tempting for some. Teachers love structure. It keeps order. Students stay “on task.” And management struggles will always make curriculum coverage difficult. But, it is also a real danger, as limiting students’ explorations can prevent them from seeing the wonderful possibilities that learning computing makes available to them. So, teachers and curriculum developers alike have to take the risk and find the balance of open exploration and guided instruction.
 
+### References ###
+[^fn-scratch-2]: For the design principles behind Scratch see, Resnick, M., Silverman, B., Kafai, Y., Maloney, J., Monroy-Hernández, A., Rusk, N., et al. (2009). Scratch: programming for all. Communications of the ACM, 52(11), 60.
+
 ---
 Cite this post:
-
-LTEC Project Team. (2017, February 13). Frankel’s Disease [Web log post]. Retrieved from {{ site.baseurl }}{{ post.url }}
-
-
-### References ###
-[^fn-scratch]:
- For the design principles behind Scratch see, Resnick, M., Silverman, B., Kafai, Y., Maloney, J., Monroy-Hernández, A., Rusk, N., et al. (2009). Scratch: programming for all. Communications of the ACM, 52(11), 60.
+LTEC Project Team. (2017, February 13). Frankel’s Disease [Web log post]. Retrieved from {{ site.url }}{{ post.url }}

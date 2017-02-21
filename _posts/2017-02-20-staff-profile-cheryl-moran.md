@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LTEC Staff Profile: Todd Lash'
-date: 2017-02-07
+date: 2017-02-20
 published: true
 author:
 ---
