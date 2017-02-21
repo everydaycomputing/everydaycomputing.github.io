@@ -35,7 +35,7 @@ This becomes both the joy and the challenge. How long should one spend on the pe
 This suggests one terrible cure for Frankel’s disease: make a curriculum so structured that there are no opportunities to jump off. This is very tempting for some. Teachers love structure. It keeps order. Students stay “on task.” And management struggles will always make curriculum coverage difficult. But, it is also a real danger, as limiting students’ explorations can prevent them from seeing the wonderful possibilities that learning computing makes available to them. So, teachers and curriculum developers alike have to take the risk and find the balance of open exploration and guided instruction.
 
 
-Cite this post:  LTEC Project Team. (2017, February 13). Frankel’s Disease [Web log post]. Retrieved from http://blog.everydaycomputing.org/2017/02/09/frankels-disease/
+Cite this post:  LTEC Project Team. (2017, February 13). Frankel’s Disease [Web log post]. Retrieved from: http://blog.everydaycomputing.org/2017/02/09/frankels-disease/
 
 ---
 
