@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LTEC Staff Profile: Todd Lash'
+title: 'LTEC Staff Profile: Cheryl Moran'
 date: 2017-02-20
 published: true
 author:
