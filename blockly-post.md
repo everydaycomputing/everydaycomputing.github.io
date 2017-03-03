@@ -23,13 +23,13 @@ In an effort to survey the landscape of programming environments suitable for ea
 
 For users, Blockly looks very similar to other block-based programming environments.  Programs are constructed by dragging interlocking blocks together on a workspace canvas similar to other environments such as Scratch, Snap, Tinker. In its most basic implementation, Blockly can be used an drop-in alternative to any of these.  Below is a fully working Blockly workspace.
 
-<iframe src="../blockly.html" class="framed-demo" scrolling="no"></iframe>
+<iframe src="/blockly.html" class="framed-demo" scrolling="no"></iframe>
 
 What separates Blockly from other offerings is that, while it can function as a standalone programming environments, it a library by which you can build your own custom programming environment.  Blockly exposes an application programming interface (API) by which a developer constructs Blocky applications that can be completely customized to particular needs.  This allows not only the creation of custom blocks coded to perform specific tasks, but also the entire editor and workspace that a user will see.
 
 In our STEM+C project, where the focus is on integration of computer science into math curriculum, this level of customization provides the opportunity to ensure that math concepts are equally represented in computer science constructs.  In the following workspace, we designed a custom Fraction block that allows for an intuitive representation of a fractional number using the numerator and denominator.  With this block, students can use fractions natively in the context of a program they are developing.
 
-<iframe src="../blockly-fractions.html" class="framed-demo" scrolling="no"></iframe>
+<iframe src="/blockly-fractions.html" class="framed-demo" scrolling="no"></iframe>
 
 // KATIE: Do you want to add something about your algorithm here?
 // I took these screenshots of a solution that we could use.
