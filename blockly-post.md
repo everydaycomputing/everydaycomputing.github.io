@@ -14,6 +14,7 @@ iframe {border:none;}
 }
 </style>
 
+# The Blockly Programming library
 ![](https://lh3.googleusercontent.com/-V3U254SXl9-Q0WD61bg8krSWqhYLC9SyKLsMRqVUHz_GGqEzo5mJCJf5dApo9X2-GVaDoncacSQZtBxocPr3Drd_BgT4w=s1376)
 
 In an effort to survey the landscape of programming environments suitable for early Computer Science learning, we turn our attention this week to Google’s [Blockly](https://developers.google.com/blockly/).  Blockly is a unique proposition in this space as it is not a full fledged programming environment but instead a library for building visual programming editors and applications.  As Google states in the documentation, Blockly is for developers. Blockly apps are for students.
