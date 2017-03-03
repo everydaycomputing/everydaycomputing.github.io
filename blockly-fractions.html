@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<head>
+  <script src="https://blockly-demo.appspot.com/static/blockly_compressed.js"></script>
+  <script src="https://blockly-demo.appspot.com/static/blocks_compressed.js"></script>
+  <script src="https://blockly-demo.appspot.com/static/msg/js/en.js"></script>
+  <script src="https://blockly-demo.appspot.com/static/javascript_compressed.js"></script>
+  <script src="https://blockly-demo.appspot.com/static/python_compressed.js"></script>
+  <script src="https://blockly-demo.appspot.com/static/php_compressed.js"></script>
+  <script src="https://blockly-demo.appspot.com/static/lua_compressed.js"></script>
+  <script src="https://blockly-demo.appspot.com/static/dart_compressed.js"></script>
+  <script src="https://blockly-demo.appspot.com/static/demos/prettify.js"></script>
+
+  <script>
+  Blockly.Blocks['math_fraction'] = {
+    init: function() {
+      this.appendDummyInput()
+      .appendField("FRACTION");
+      this.appendValueInput("numerator")
+      .setCheck("Number")
+      .setAlign(Blockly.ALIGN_RIGHT)
+      .appendField("Numerator");
+      this.appendValueInput("denominator")
+      .setCheck("Number")
+      .setAlign(Blockly.ALIGN_RIGHT)
+      .appendField("Denominator")
+      this.setNextStatement(true, null);
+      this.setColour(315);
+      this.setTooltip('');
+      this.setHelpUrl('');
+    }
+  };
+
+
+  Blockly.JavaScript['math_fraction'] = function(block) {
+    var value_numerator = Blockly.JavaScript.valueToCode(block, 'numerator', Blockly.JavaScript.ORDER_ATOMIC);
+    var value_denominator = Blockly.JavaScript.valueToCode(block, 'denominator', Blockly.JavaScript.ORDER_ATOMIC);
+    // TODO: Assemble JavaScript into code variable.
+    var code = 'var Numerator='+value_numerator+'; var Denominator='+value_denominator+'\n';
+    return code;
+  };
+  </script>
+
+  <script src="https://google-developers.appspot.com/blockly/acorn_interpreter.js"></script>
+  <link href="https://blockly-demo.appspot.com/static/demos/prettify.css" rel="stylesheet">
+  <link href="https://google-developers.appspot.com/blockly/styles/blockly-demo.css" rel="stylesheet">
+
+  <!-- Everyday Computing Overrides -->
+  <style>
+  .output-panel {
+    right: 8px;
+    width: 350px;
+    background-color: white;
+    overflow: scroll;
+    padding: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.37);
+  }
+  </style>
+
+</head>
+<body>
+  <div class="app-container">
+    <div id="blocklyDiv" class="main blockly-panel"></div>
+    <div id="codeDiv" class="main output-panel">
+      <div class="dropdown-bar">
+        Language:
+        <div id="im-just-an-underline">
+          <select id="languageDropdown" onChange="myUpdateFunction();">
+            <option value="JavaScript">JavaScript</option>
+            <option value="Python">Python</option>
+            <option value="PHP">PHP</option>
+            <option value="Lua">Lua</option>
+            <option value="Dart">Dart</option>
+          </select>
+        </div>
+      </div>
+      <hr class="POps">
+      <pre></pre>
+    </div>
+    <div id="playButton" class="play-button material-icons">play_arrow</div>
+  </div>
+
+  <xml xmlns="http://www.w3.org/1999/xhtml" id="toolbox" style="display: none;">
+    <block type="math_fraction">
+      <field name="numerator">0</field>
+      <field name="denominator">1</field>
+    </block>
+    <block type="math_number">
+      <field name="NUM">0</field>
+    </block>
+    <block type="controls_if">
+      <mutation else="1"></mutation>
+    </block>
+    <block type="variables_get">
+      <field name="VAR">Denominator</field>
+    </block>
+    <block type="variables_get">
+      <field name="VAR">Numerator</field>
+    </block>
+    <block type="logic_compare"></block>
+
+    <block type="text_print">
+      <value name="TEXT">
+        <shadow type="text">
+          <field name="TEXT">abc</field>
+        </shadow>
+      </value>
+    </block>
+  </xml>
+
+  <xml id="blocklyDefault" style="display: none"></xml>
+
+  <script>
+  var workspace = Blockly.inject('blocklyDiv',{
+    toolbox: document.getElementById('toolbox'),
+    grid : {
+  		spacing : 20,
+  		length : 1,
+  		colour : 'orange',
+  		snap : false,
+  	},
+    sounds : true
+  });
+
+  var defaultBlocks = document.getElementById('blocklyDefault');
+  Blockly.Xml.domToWorkspace(defaultBlocks, workspace);
+  function myUpdateFunction(event) {
+    var languageDropdown = document.getElementById('languageDropdown');
+    var languageSelection = languageDropdown.options[languageDropdown.selectedIndex].value;
+    var codeDiv = document.getElementById('codeDiv');
+    var codeHolder = document.createElement('pre');
+    codeHolder.className = 'prettyprint but-not-that-pretty';
+    var code = document.createTextNode(Blockly[languageSelection].workspaceToCode(workspace));
+    codeHolder.appendChild(code);
+    codeDiv.replaceChild(codeHolder, codeDiv.lastElementChild);
+    prettyPrint();
+  }
+  workspace.addChangeListener(myUpdateFunction);
+  function executeBlockCode() {
+    var code = Blockly.JavaScript.workspaceToCode(workspace);
+    var initFunc = function(interpreter, scope) {
+      var alertWrapper = function(text) {
+        text = text ? text.toString() : '';
+        return interpreter.createPrimitive(alert(text));
+      };
+      interpreter.setProperty(scope, 'alert',
+      interpreter.createNativeFunction(alertWrapper));
+      var promptWrapper = function(text) {
+        text = text ? text.toString() : '';
+        return interpreter.createPrimitive(prompt(text));
+      };
+      interpreter.setProperty(scope, 'prompt',
+      interpreter.createNativeFunction(promptWrapper));
+    };
+    var myInterpreter = new Interpreter(code, initFunc);
+    var stepsAllowed = 10000;
+    while (myInterpreter.step() && stepsAllowed) {
+      stepsAllowed--;
+    }
+    if (!stepsAllowed) {
+      throw EvalError('Infinite loop.');
+    }
+  }
+
+  document.getElementById('playButton').addEventListener('click', executeBlockCode);
+  </script>
+</body>
