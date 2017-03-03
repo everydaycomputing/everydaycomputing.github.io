@@ -12,6 +12,7 @@ iframe {border:none;}
   max-width: 960px;
   max-height: 540px;
 }
+.container {max-width: 50rem;}
 </style>
 
 # The Blockly Programming library
