@@ -12,8 +12,6 @@ author:
 
 **LTEC Role**: Research Associate
 
-<!--excerpt-->
-
 **Professional Background**: I began my career as an elementary school teacher and taught for 8 years. I taught in both public and private schools. I have a bachelor’s degree in psychology from University of Illinois at Chicago and a master’s degree in teaching from National Louis University. I am endorsed to teach English as a second language. While teaching, I was a pilot teacher for Everyday Mathematics, 1st edition. I provided weekly feedback about lessons to the author team. I became intrigued with the Everyday Mathematics curriculum and wanted to share my experiences with other teachers so I independently began providing professional development to new and experienced Everyday Mathematics teachers. In 2003, I joined the UChicago STEM education (formerly CEMSE) team and have taken on a professional developer and curriculum writer role. Currently, in addition to this LTEC project, I am part of a researcher-practitioner partnership team exploring how to make high school computer science instruction and materials more accessible for students
 with learning disabilities and attention deficit disorders.
 
