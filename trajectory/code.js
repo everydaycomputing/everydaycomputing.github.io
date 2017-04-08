@@ -10,7 +10,8 @@ $(function(){ // on dom ready
     elements: {
       nodes: [
         {
-          data: { id: '1U', name: '1U: Understand that a condition is a statement that can be classified as true or false. \n \n 1A: Assess truth-value of a condition.', href: '<li id="callout"><a href=“http://everydaycomputing.org/resource/article/ahZzfmV2ZXJ5ZGF5Y29tcHV0aW5nb3Jnci4LEgdBcnRpY2xlIgdhcnRpY2xlDAsSB0FydGljbGUiDWxpdTIwMTRtYWtpbmcM/”>Liu, Jiangjiang Lin, Cheng-Hsien Wilson, Joshua Hemmenway, David Hasson, Ethan Barnett, Zebulun Xu, Yingbo . "Making games a snap with Stencyl: a summer computing workshop for K-12 teachers." (2014). 169-174.</a></li>' },
+          data: { id: '1U', name: '1U: Understand that a condition is a statement that can be classified as true or false. \n \n 1A: Assess truth-value of a condition.',
+          href: '<li id="callout"><a target="_blank" href=“http://everydaycomputing.org/resource/article/ahZzfmV2ZXJ5ZGF5Y29tcHV0aW5nb3Jnci4LEgdBcnRpY2xlIgdhcnRpY2xlDAsSB0FydGljbGUiDWxpdTIwMTRtYWtpbmcM/”>Liu, Jiangjiang Lin, Cheng-Hsien Wilson, Joshua Hemmenway, David Hasson, Ethan Barnett, Zebulun Xu, Yingbo . "Making games a snap with Stencyl: a summer computing workshop for K-12 teachers." (2014). 169-174.</a></li>' },
           position: {x: 0, y:0},
           classes: 'beginning unplugged'
         },
