@@ -12,7 +12,7 @@ $(function(){ // on dom ready
         {
           data: {
             id: '1U',
-            name: 'Understand that a condition is a statement that can be classified as true or false. \n \n 1A: Assess truth-value of a condition.',
+            name: 'Understand that a condition is a statement that can be classified as true or false. \n \n Assess truth-value of a condition.',
             href: [
               {
                 text:'Liu, Jiangjiang Lin, Cheng-Hsien Wilson, Joshua Hemmenway, David Hasson, Ethan Barnett, Zebulun Xu, Yingbo . "Making games a snap with Stencyl: a summer computing workshop for K-12 teachers." (2014). 169-174.',
@@ -26,7 +26,7 @@ $(function(){ // on dom ready
         {
           data: {
             id: '2U',
-            name: 'Understand that a conditional is a statement that connects a condition to a corresponding consequence or outcome. \n \n 2A: Make decisions based on conditionals.',
+            name: 'Understand that a conditional is a statement that connects a condition to a corresponding consequence or outcome. \n \n Make decisions based on conditionals.',
             href: [
               {
                 text:'Franklin, Diana Conrad, Phillip Aldana, Gerardo Hough, Sarah . "Animal tlatoque: attracting middle school students to computing through culturally-relevant themes." None. (2011). 453-458.',
@@ -61,7 +61,7 @@ $(function(){ // on dom ready
 {
         data: {
           id: '1.1U',
-          name: 'Understand that a Boolean is a variable with values T or F. \n \n 1.1A: Use a Boolean variable.',
+          name: 'Understand that a Boolean is a variable with values T or F. \n \n Use a Boolean variable.',
           href: [
             {
               text:'Liu, Jiangjiang Lin, Cheng-Hsien Hasson, Ethan Philip Barnett, Zebulun David . "Introducing computer science to K-12 through a summer computing workshop for teachers." (2011). 389-394.',
@@ -80,7 +80,7 @@ $(function(){ // on dom ready
 {
   data: {
     id: '6bU',
-    name: 'Understand that conditional operators such as AND and OR can be used to express compound conditions. \n \n 6bA: Use conditional operators to create compound conditions in conditional statements.',
+    name: 'Understand that conditional operators such as AND and OR can be used to express compound conditions. \n \nUse conditional operators to create compound conditions in conditional statements.',
     href: [
       {
         text:'Liu, Jiangjiang Lin, Cheng-Hsien Hasson, Ethan Philip Barnett, Zebulun David . "Introducing computer science to K-12 through a summer computing workshop for teachers." None. (2011). 389-394.',
@@ -98,7 +98,7 @@ $(function(){ // on dom ready
 {
   data: {
     id: '1.2U',
-    name: 'Understand that often there are multiple conditions to be considered in a situation. \n \n 1.2A: List all the conditions that you might need to consider when solving a problem.',
+    name: 'Understand that often there are multiple conditions to be considered in a situation. \n \n List all the conditions that you might need to consider when solving a problem.',
     href: [
       {
         text:'Franklin, Diana Conrad, Phillip Aldana, Gerardo Hough, Sarah . "Animal tlatoque: attracting middle school students to computing through culturally-relevant themes." None. (2011). 453-458.',
@@ -115,7 +115,7 @@ $(function(){ // on dom ready
 {
   data: {
     id: '4.1U',
-    name: 'Understand that sometimes conditions overlap, and more than one can be applicable at a time. \n \n 4.1A: Identify examples of overlapping conditions. Create and interpret conditionals that consider how conditions overlap.',
+    name: 'Understand that sometimes conditions overlap, and more than one can be applicable at a time. \n \n Identify examples of overlapping conditions. Create and interpret conditionals that consider how conditions overlap.',
     href:
     [
       {
@@ -128,7 +128,7 @@ $(function(){ // on dom ready
 },
 { data: {
   id: '3aU',
-  name: 'Understand that it may be necessary to specify an outcome to correspond with BOTH states of a condition (true and false). \n \n 3aA: Consider both states of a condition when creating conditional statements.',
+  name: 'Understand that it may be necessary to specify an outcome to correspond with BOTH states of a condition (true and false). \n \n Consider both states of a condition when creating conditional statements.',
   href: [
     {
       text:'Armoni, Michal Gal-Ezer, Judith . "Early computing education: why? what? when? who?." ACM Inroads. (2014). 54-59.',
@@ -142,7 +142,7 @@ $(function(){ // on dom ready
 {
   data: {
     id: '4U',
-    name: 'Understand that computers require all actions to be specified, and that you have to create a conditional to prompt a computer to complete each action. \n \n 4A: Make a complete list of the required actions and their associated conditions, and create the necessary conditionals.',
+    name: 'Understand that computers require all actions to be specified, and that you have to create a conditional to prompt a computer to complete each action. \n \n Make a complete list of the required actions and their associated conditions, and create the necessary conditionals.',
     href: [
       {
         text:'Guzdial, Mark . "Education Paving the way for computational thinking." Communications of the ACM. (2008). 25-27.',
@@ -161,7 +161,7 @@ $(function(){ // on dom ready
 {
   data: {
     id: '5U',
-    name: 'Understand that command such as if-then, if-then-else, and event handlers signal a computer to evaluate conditions and decide how to act based on conditions. \n \n 5A: Create a program with conditionals.',
+    name: 'Understand that command such as if-then, if-then-else, and event handlers signal a computer to evaluate conditions and decide how to act based on conditions. \n \n Create a program with conditionals.',
     href: [
       {
         text:'Liu, Jiangjiang Lin, Cheng-Hsien Hasson, Ethan Philip Barnett, Zebulun David . "Introducing computer science to K-12 through a summer computing workshop for teachers." None. (2011). 389-394.',
@@ -185,7 +185,7 @@ $(function(){ // on dom ready
 {
   data: {
     id: '3bU',
-    name: 'Understand conditional branching, that is, the reach of the effects of a conditional statement and how conditionals can affect the path of execution. \n \n 3bA: Use the if/else construct to divert the default pathway through a program. Create different pathways in programs using conditional statements.',
+    name: 'Understand conditional branching, that is, the reach of the effects of a conditional statement and how conditionals can affect the path of execution. \n \n Use the if/else construct to divert the default pathway through a program. Create different pathways in programs using conditional statements.',
     href: [
       {
         text:'Werner, Linda Denner, Jill Campe, Shannon . "Children programming games: a strategy for measuring computational learning." ACM Transactions on Computing Education TOCE. (2015). 24',
@@ -212,7 +212,7 @@ classes: 'intermediate programming'
 {
   data: {
     id: '6aU',
-    name: 'Understand that conditional statements can be nested or combined in different ways to accomplish complex goals. \n \n 6aA: Combine conditions using nesting or other techniques to accomplish complex goals.',
+    name: 'Understand that conditional statements can be nested or combined in different ways to accomplish complex goals. \n \n Combine conditions using nesting or other techniques to accomplish complex goals.',
     href: []
   },
   classes: 'intermediate unplugged'
