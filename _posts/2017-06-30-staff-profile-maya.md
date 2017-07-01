@@ -5,7 +5,7 @@ date: 2017-06-30
 published: true
 author:
 ---
- <img src="assets/2017-06-30-staff-profile-maya-28949197.png" style="float:right;padding:20px;">
+ <img src="/blog/assets/2017-06-30-staff-profile-maya-28949197.png" style="float:right;padding:20px;">
 
 **Name:** Maya Israel
 
