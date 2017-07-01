@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LTEC Staff Profile: Maya Israel'
-date: 2017-05-22
+date: 2017-06-30
 published: true
 author:
 ---
