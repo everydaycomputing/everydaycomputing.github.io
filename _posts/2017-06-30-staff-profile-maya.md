@@ -25,6 +25,7 @@ author:
 **What I do with my spare time:**  When not working, I am usually geeking out with my 15 year old daughter, Kayla, and my husband, Loren. We love to play board games such as Munchkin, Wise and Otherwise, and Ascension. We also love working on puzzles. The last puzzle had a Broadway musicals theme.  
 
 
+![](assets/2017-06-30-staff-profile-maya-42909.png)
 
 ### Fun facts ###
 * I was born in Haifa Israel and immigrated to the United States as a child. This experience of being part of an ESL program provided me with a unique perspective on schooling.
