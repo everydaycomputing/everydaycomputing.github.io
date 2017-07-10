@@ -18,6 +18,7 @@ The session participants are currently working on a putting together a special j
 Below you will find a summary of our poster presentations for the integration session, as well as an additional poster presented by members of the LTEC team. As always, please feel free to sound off in the comments section with any feedback!
 
 <!--excerpt-->
+
 <table>
 <tr>
 <td colspan="2">
@@ -27,19 +28,21 @@ Katie Rich, Carla Strickland, and Cheryl Moran
 <br/>UChicago STEM Ed<br/>
 Jelena Pokimica and Quinn Wherfel
 <br/>University of Illinois at Urbana-Champaign
-</td></tr>
+</td>
+</tr>
 
 <tr>
 <td width="150px">
 <img src="http://everydaycomputing.org/static/img/portfolio/rich.jpg" class="img-circle timeline-image" alt=""><br>
-<img src="http://everydaycomputing.org/static/img/portfolio/Isaacs.jpg" class="img-circle timeline-image" alt=""><br>
+<img src="http://everydaycomputing.org/static/img/portfolio/carla.jpg" class="img-circle timeline-image" alt=""><br>
 <img src="http://everydaycomputing.org/static/img/portfolio/cheryl.jpg" class="img-circle timeline-image" alt="">
 <td>
 <i>Description of Presentation:</i>
 Given recent calls for integration of computer science (CS) into K-12, scholars and practitioners are exploring how CS concepts might best be developed across grade levels. We conducted a wide-ranging literature review designed to synthesize methodological research about CS learning goals for K-5 into a set of coherent learning trajectories (LTs). We focus specifically on computational thinking (CT) and how it might map onto existing mathematics LTs.
 
 <br/>
-<a href="https://drive.google.com/a/uchicago.edu/file/d/0B2-cNLqeySxibFQ4REtGZXlWOXM/view?usp=sharing">Poster</a></td></tr>
+<a href="https://drive.google.com/a/uchicago.edu/file/d/0B2-cNLqeySxibFQ4REtGZXlWOXM/view?usp=sharing">Poster</a></td>
+</tr>
 
 <!--
 ////
@@ -55,13 +58,17 @@ Maya Israel, Todd Lash, George Reese, Jelena Pokimica, Gakyung Jeong, Quinn Wher
 University of Illinois at Urbana-Champaign
 </td>
 </tr>
+
 <tr><td><img src="http://everydaycomputing.org/static/img/portfolio/reese.jpg" class="img-circle timeline-image" alt="">
 <br/>
 <img src="http://everydaycomputing.org/static/img/portfolio/Maya.png" class="img-circle timeline-image" alt="">
 <br/>
 <img src="http://everydaycomputing.org/static/img/portfolio/Wherfel.jpg" class="img-circle timeline-image" alt="">
 <br/>
-<img src="http://everydaycomputing.org/static/img/portfolio/cheryl.jpg" class="img-circle timeline-image" alt="">
+<img src="http://everydaycomputing.org/static/img/portfolio/lash.jpeg" class="img-circle timeline-image" alt="">
+<br/>
+<img src="http://everydaycomputing.org/static/img/portfolio/JelenaP.jpg" class="img-circle timeline-image" alt="">
+<br/>
 </td>
 <td>
 Description of Presentation:
@@ -84,8 +91,15 @@ University of Illinois at Urbana-Champaign
 
 <tr>
 <td>  
-<img src="http://everydaycomputing.org/static/img/portfolio/carla.jpg" class="img-circle timeline-image" alt=""><br>
-<img src="http://everydaycomputing.org/static/img/portfolio/reese.jpg" class="img-circle timeline-image" alt="">
+<tr><td>
+<img src="http://everydaycomputing.org/static/img/portfolio/Maya.png" class="img-circle timeline-image" alt="">
+<br/>
+<img src="http://everydaycomputing.org/static/img/portfolio/Wherfel.jpg" class="img-circle timeline-image" alt="">
+<br/>
+<img src="http://everydaycomputing.org/static/img/portfolio/lash.jpeg" class="img-circle timeline-image" alt="">
+<br/>
+<img src="http://everydaycomputing.org/static/img/portfolio/JelenaP.jpg" class="img-circle timeline-image" alt="">
+<br/>
 </td>
 <td>
 Description of Presentation:
@@ -100,7 +114,5 @@ CS for All addresses the need to increase the level of inclusion of all students
 -->
 
 
-<!--
-</td></tr>
+
 </table>
--->
