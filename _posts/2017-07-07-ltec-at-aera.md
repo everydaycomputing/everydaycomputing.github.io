@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LTEC @ AERA 2017'
-date: 2017-06-01
+date: 2017-07-07
 published: true
 author:
 ---
