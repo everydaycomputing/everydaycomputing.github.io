@@ -6,6 +6,9 @@ published: true
 author:
 ---
 
+<img src="{{ site.images }}/people/andy_issacs.jpg"
+style="float:right;padding:20px;">
+
 **Name:** Andy Isaacs
 
 **LTEC Role:** Principal Investigator
