@@ -6,8 +6,8 @@ published: true
 author:
 ---
 
-<img src="{{ site.images }}/people/andy_issacs.jpg"
-style="float:right;padding:20px;">
+<img src="https://media.githubusercontent.com/media/everydaycomputing/everydaycomputing.github.io/master/public/images/people/andy_isaacs.jpg"
+style="float:right;padding:20px;"> 
 
 **Name:** Andy Isaacs
 
