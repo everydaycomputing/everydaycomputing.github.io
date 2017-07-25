@@ -58,6 +58,15 @@
   text-align: center;}
   table { font-size:100%;}
   table b {font-size:1.25em;}
+
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
+
+.off-edge {
+  padding-left: 22px ;
+}
   </style>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -88,7 +97,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
         <li>
-          <a class="page-scroll" href="http://everydaycomputing.org/about/">About</a>
+          <a class="page-scroll"  href="http://everydaycomputing.org/about/">About</a>
         </li>
         <li>
           <a class="page-scroll" href="http://blog.everydaycomputing.org">Blog</a>
@@ -111,9 +120,34 @@
   <!-- /.container-fluid -->
 </nav>
 
-<article class="page">
+<div style="height:55px;width:100%;background-color:#f05f40;">&nbsp;</div>
+<article  class="off-edge"> <!-- took out class="page" to fix alignment, can return if necessary-->
   <h1 class="page-title">Publications</h1>
-  {{ content }}
+  <h2 id="publications">Publications</h2>
+
+<p class="hangingindent">Rich, K. M., Strickland, C., Binkowski, A., Moran, C., &amp; Franklin, D. (2017, August). K-8 Learning Trajectories Derived from Reserach Literature: Sequence, Repetition, Conditionals. <em>ICER '17 Proceedings of the 2017 ACM International Conference on Computer Education Research,</em> Tacoma, WA.</p>
+
+<p class="hangingindent">Rich, K., Pokimica, J., Wherfel, Q., Strickland, C., &amp; Moran, C. (2017, April). <a href="http://www.aera.net/Publications/Online-Paper-Repository/AERA-Online-Paper-Repository/Owner/984843"><em>Building Mathematics + Computational Thinking Trajectories From Existing Literature</em></a>. Paper presented at the 2017 annual meeting of the American Educational Research Association, San Antonio, TX.</p>
+
+<p class="hangingindent">Rich, K., Strickland, C., Franklin, D. (2017, March). <a href="http://dl.acm.org/citation.cfm?id=3017772&amp;CFID=786772246&amp;CFTOKEN=85602627">A Literature Review through the Lens of Computer Science Learning Goals Theorized and Explored in Research</a>. <em>SIGCSE '17 Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education,</em> Seattle, WA. </p>
+
+<h2 id="presentations">Presentations</h2>
+
+<p class="hangingindent">Israel, M., Wherfel, Q. M., &amp; Pokimica, J. (2017, April). <em>Classroom lessons to learning trajectories: Mathematics + computational thinking.</em> Paper presented at the American Educational Research Association National Meeting, San Antonio, TX.</p>
+
+<p class="hangingindent">Isaacs, A., Moran, C., &amp; Rich, K. (2017). <em>Brining Computational Thinking into Elementary Mathematics.</em> Presentation at the National Council of Teachers of Mathematics Annual Meeting, San Antonio, TX.</p>
+
+<p class="hangingindent">Binkowski, T. A., &amp; Rich, K. (2016). <em>Using Computation to Define Computational Thinking.</em> Presentation at the Illinois Council of Teachers of Mathematics Annual Meeting, Peoria, IL.</p>
+
+<p class="hangingindent">Isaacs, A. (2016). <em>Computer Science for All: Lessons Learned from Mathematics.</em> Presentation at the Joint conference of the Illinois council fo Teachers of Mathematics and the Illinois Science Teachers Assocation, Peoria, IL.</p>
+
+<h2 id="posters">Posters</h2>
+
+<p class="hangingindent">Rich, K., Pokimica, J., Wherfel, Q., Strickland, C., &amp; Moran, C. (2017, April). <em>Building Mathematics + Computational Thinking Trajectories from Literature.</em> Poster presented at the 2017 American Educational Research Association Annual Meeting, San Antonio, TX.</p>
+
+<p class="hangingindent">Israel, M., Lash, T., &amp; Reese, G. (2017, March). <em>Emerging learning progressions in K-5 integrated mathematics and computer science lesson plans.</em> Poster presented at the 48th Technical Symposium on Computer Science Education, Association for Computing Machinery Special Interest Group for Computer Science Education National Conference (SIGCSE), Seattle, WA.</p>
+
+<p class="hangingindent"> Israel, M., Pokimica, J., Wherfel, Q., &amp; Reese, G. (revised and resubmitted). <em>Integrating computer science into elementary mathematics: Cross-case analysis of classroom implementation.</em> Journal for Research in Mathematics Education.</p>
 </article>
 
 
@@ -148,25 +182,25 @@
 -->
 
 <footer>
-  <div style="height:4px;width:100%;background-color:#f05f40;">&nbsp;</div>
-  <div class="container" style="padding:10px;">
-    <div class="row">
-      <div class="col-md-6">
-        <span class="copyright">Copyright &copy; Everyday Computing 2016</span>
+      <div style="height:2px;width:100%;background-color:#f05f40;">&nbsp;</div>
+      <div class="container" style="padding:10px">
+        <div class="row">
+          <div class="col-md-9">
+            <span class="copyright">Copyright &copy; Everyday Computing 2016</span>
+          </div>
+          <div class="col-md-3">
+            <ul class="list-inline quicklinks">
+              <li><a href="#">Privacy Policy</a>
+              </li>
+              <li><a href="#">Terms of Use</a>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
-      <!--
-      <div class="col-md-6">
-        <ul class="list-inline quicklinks">
-          <li><a href="#">Privacy Policy</a>
-          </li>
-          <li><a href="#">Terms of Use</a>
-          </li>
-        </ul>
-      </div>
-      -->
-    </div>
-  </div>
-</footer>
+    </footer>
+
+
 
 <!-- jQuery -->
 <script src="http://everydaycomputing.org/static/js/jquery.js"></script>
