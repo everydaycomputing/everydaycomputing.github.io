@@ -7,7 +7,6 @@ author:
 ---
 
 
-<!--content-->
 The LTEC team is pleased to announce the release of our first public resource: a collection of CS education articles from scholarly and popular publications.
 
 You can find the [collection of articles](http://everydaycomputing.org/public/resource/article/ "Articles") on our [Resources page](http://everydaycomputing.org/public/resource/ "Resource Page"). Articles are listed in alphabetical order by author. Click the “View Summary” link for any article to view a summary of the purpose, findings, and recommendations included in the article. When applicable, the summary page will also include information about the research methodology used in the article, including the sample size and characteristics.
