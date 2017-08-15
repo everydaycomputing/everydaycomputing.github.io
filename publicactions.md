@@ -5,7 +5,7 @@ title: Publications
 
 
 ## Publications
-Rich, K. M., Strickland, C., Binkowski, A., Moran, C., &amp; Franklin, D. (2017, August). K-8 Learning Trajectories Derived from Research Literature: Sequence, Repetition, Conditionals. *ICER '17 Proceedings of the 2017 ACM International Conference on Computer Education Research,* Tacoma, WA.
+Rich, K. M., Strickland, C., Binkowski, A., Moran, C., &amp; Franklin, D. (2017, August). [K-8 Learning Trajectories Derived from Research Literature: Sequence, Repetition, Conditionals](http://dl.acm.org/citation.cfm?id=3106166&CFID=797810216&CFTOKEN=11574041). *ICER '17 Proceedings of the 2017 ACM International Conference on Computer Education Research,* Tacoma, WA.
 
 Rich, K., Pokimica, J., Wherfel, Q., Strickland, C., &amp; Moran, C. (2017, April). [*Building Mathematics + Computational Thinking Trajectories From Existing Literature*](http://www.aera.net/Publications/Online-Paper-Repository/AERA-Online-Paper-Repository/Owner/984843). Paper presented at the 2017 annual meeting of the American Educational Research Association, San Antonio, TX.
 
