@@ -5,7 +5,7 @@ title: Publications
 
 
 ## Publications
-Rich, K. M., Strickland, C., Binkowski, A., Moran, C., &amp; Franklin, D. (2017, August). K-8 Learning Trajectories Derived from Reserach Literature: Sequence, Repetition, Conditionals. *ICER '17 Proceedings of the 2017 ACM International Conference on Computer Education Research,* Tacoma, WA.
+Rich, K. M., Strickland, C., Binkowski, A., Moran, C., &amp; Franklin, D. (2017, August). [K-8 Learning Trajectories Derived from Research Literature: Sequence, Repetition, Conditionals](http://dl.acm.org/citation.cfm?id=3106166&CFID=797810216&CFTOKEN=11574041). *ICER '17 Proceedings of the 2017 ACM International Conference on Computer Education Research,* Tacoma, WA.
 
 Rich, K., Pokimica, J., Wherfel, Q., Strickland, C., &amp; Moran, C. (2017, April). [*Building Mathematics + Computational Thinking Trajectories From Existing Literature*](http://www.aera.net/Publications/Online-Paper-Repository/AERA-Online-Paper-Repository/Owner/984843). Paper presented at the 2017 annual meeting of the American Educational Research Association, San Antonio, TX.
 
@@ -18,7 +18,7 @@ Isaacs, A., Moran, C., &amp; Rich, K. (2017). *Brining Computational Thinking in
 
 Binkowski, T. A., &amp; Rich, K. (2016). *Using Computation to Define Computational Thinking.* Presentation at the Illinois Council of Teachers of Mathematics Annual Meeting, Peoria, IL.
 
-Isaacs, A. (2016). *Computer Science for All: Lessons Learned from Mathematics.* Presentation at the Joint conference of the Illinois council fo Teachers of Mathematics and the Illinois Science Teachers Assocation, Peoria, IL.
+Isaacs, A. (2016). *Computer Science for All: Lessons Learned from Mathematics.* Presentation at the Joint conference of the Illinois council for Teachers of Mathematics and the Illinois Science Teachers Association, Peoria, IL.
 
 ## Posters
 Rich, K., Pokimica, J., Wherfel, Q., Strickland, C., &amp; Moran, C. (2017, April). *Building Mathematics + Computational Thinking Trajectories from Literature.* Poster presented at the 2017 American Educational Research Association Annual Meeting, San Antonio, TX.
