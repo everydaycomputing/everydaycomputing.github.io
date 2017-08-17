@@ -14,7 +14,7 @@ Rich, K., Strickland, C., Franklin, D. (2017, March). [A Literature Review throu
 ## Presentations
 Israel, M., Wherfel, Q. M., &amp; Pokimica, J. (2017, April). *Classroom lessons to learning trajectories: Mathematics + computational thinking.* Paper presented at the American Educational Research Association National Meeting, San Antonio, TX.
 
-Isaacs, A., Moran, C., &amp; Rich, K. (2017). *Brining Computational Thinking into Elementary Mathematics.* Presentation at the National Council of Teachers of Mathematics Annual Meeting, San Antonio, TX.
+Isaacs, A., Moran, C., &amp; Rich, K. (2017). *Bringing Computational Thinking into Elementary Mathematics.* Presentation at the National Council of Teachers of Mathematics Annual Meeting, San Antonio, TX.
 
 Binkowski, T. A., &amp; Rich, K. (2016). *Using Computation to Define Computational Thinking.* Presentation at the Illinois Council of Teachers of Mathematics Annual Meeting, Peoria, IL.
 
