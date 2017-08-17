@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Resource Release - Collection of CS Education Articles'
-date: 2017-08-02
+title: 'Resource Release - Literature-based Learning Trajectories: Sequence, Repetition, Conditionals'
+date: 2017-08-16
 published: true
 author:
 ---
