@@ -1,1 +1,2 @@
 # everydaycomputing.github.io
+#
