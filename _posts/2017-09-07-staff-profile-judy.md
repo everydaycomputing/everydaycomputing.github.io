@@ -6,8 +6,7 @@ published: true
 author:
 ---
 
-<img src="https://github.com/everydaycomputing/everydaycomputing.github.io/blob/master/public/images/blog/judy-rocke.jpg"
-style="float:right;padding:20px;"> 
+<img src="{{ site.images }}/blog/judy-rocke.jpg" style="float:right;padding:20px;"> 
 
 **Name:** Judy Rocke
 
