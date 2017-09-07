@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LTEC Staff Profile: Judy Rocke'
-date: 2017-08-07
+date: 2017-09-07
 published: true
 author:
 ---
