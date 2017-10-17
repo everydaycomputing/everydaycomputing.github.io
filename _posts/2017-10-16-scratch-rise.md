@@ -5,7 +5,6 @@ date: 2017-10-16
 published: true
 author:
 ---
-
 ![]({{ site.images }}/blog/2017-09-27-2017-nsf-video-showcase-ed57460d.png)
 
 While students across the world continue to make amazing things using the [Scratch](https://scratch.mit.edu/) programming language, this month Scratch had a significant accomplishment of its own.  Scratch attained its highest ever ranking, Position 14, in the [TIOBE Programming Community index](https://www.tiobe.com/tiobe-index/), an indicator of the popularity of programming languages.  
