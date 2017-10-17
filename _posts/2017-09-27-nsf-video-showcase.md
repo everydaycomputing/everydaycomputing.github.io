@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2017 NSF STEM for All Video Showcase'
+title: '2017 NSF STEM for All Video Showcases'
 date: 2017-09-27
 published: true
 author:
