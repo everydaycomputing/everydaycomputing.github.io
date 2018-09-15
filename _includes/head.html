@@ -24,7 +24,13 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Everyday Computing</title>
+  <title>
+    {% if page.title == "Home" %}
+    {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+    {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
 
   <!-- Bootstrap Core CSS -->
   <link rel="stylesheet" href="http://everydaycomputing.org/static/css/bootstrap.min.css" type="text/css">
