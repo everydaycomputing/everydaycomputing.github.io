@@ -5,7 +5,7 @@ date: 2019-01-25
 published: true
 author: Feiya Luo
 ---
-Author: Feiya Luo\
+Author: Feiya Luo<br />
 Contributors: John Hampton, Maya Israel, Ruohan Liu, Wei Yan
 
 *This blog post is being cross-posted from the CTRL (Creative Technology Research Lab) site. To see the original blog post, please visit [CTRL: Extending computer science beyond the classroom](https://ctrl.education.illinois.edu/blog/2019-01-25-extending-computer-science-beyond-the-classroom).*
