@@ -2,7 +2,7 @@
 layout: post
 title: 'Extending computer science beyond the classroom'
 date: 2019-01-25
-published: false
+published: true
 author: Feiya Luo
 ---
 Author: Feiya Luo
