@@ -10,7 +10,7 @@ Contributors: John Hampton, Maya Israel, Ruohan Liu, Wei Yan
 
 *This blog post is being cross-posted from the CTRL (Creative Technology Research Lab) site. To see the original blog post, please visit [CTRL: Extending computer science beyond the classroom](https://ctrl.education.illinois.edu/blog/2019-01-25-extending-computer-science-beyond-the-classroom).*
 
-<figure><img src="{{ site.images }}/blog/2019-01-25-kids-working-with-dash.png alt="Children programming Dash to perform tasks using the tow/push bar extension" title="Children programming Dash to perform tasks using the tow/push bar extension"><figcaption>Photo taken at Broward County Schools CS Education Week 2018</figcaption></figure>
+<figure><img src="{{ site.images }}blog/2019-01-25-kids-working-with-dash.png alt="Children programming Dash to perform tasks using the tow/push bar extension" title="Children programming Dash to perform tasks using the tow/push bar extension"><figcaption>Photo taken at Broward County Schools CS Education Week 2018</figcaption></figure>
 
 <!--excerpt-->
 
