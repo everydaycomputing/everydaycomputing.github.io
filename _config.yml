@@ -66,3 +66,13 @@ gems:
 
 # Don't include these files when processing
 exclude: [everydaycomputing.github.io.xcodeproj,archive]
+
+# Conversion
+#
+# See https://idratherbewriting.com/2016/02/21/bug-with-kramdown-and-rouge-with-github-pages/
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
