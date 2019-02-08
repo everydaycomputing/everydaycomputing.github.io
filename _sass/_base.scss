@@ -86,6 +86,11 @@ tbody tr:nth-child(odd) th {
  text-align: center;
 }
 
+OL.footnotes > LI:target {
+  background-color: #efefef;
+  font-weight: bold;
+}
+
 #nav-ninjas:hover {
   background-color: #f26f50;
 }
