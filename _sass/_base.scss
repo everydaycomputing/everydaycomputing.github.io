@@ -82,6 +82,14 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+td.presenterPhotos {
+  width: 150px;
+}
+
+td.presentationInfo {
+
+}
+
 .center {
  text-align: center;
 }
@@ -115,3 +123,13 @@ OL.footnotes > LI:target {
   padding-left: 35px ;
   padding-right: 35px ;
 }
+
+/** General post styles **/
+// .presentationsGrid {
+//   display: grid;
+//   grid-template-columns: 1fr 3fr;
+// }
+
+//   .presentationsGrid .presentationsGridHeader {
+//     grid-column: 1 / 3;
+//   }
