@@ -7,7 +7,7 @@ author:
 ---
 
 <a href="https://videohall.com/p/1392" target="_blank">
-<img src="{{ site.images }}/blog/2019-05-10-nsf-video-showcase-banner.png" alt="May 13-20, 2019 STEM for All Video Showcase - View, Discuss, Vote">
+<img src="{{ site.images }}/blog/2019-05-13-nsf-video-showcase-banner.png" alt="May 13-20, 2019 STEM for All Video Showcase - View, Discuss, Vote">
 </a>
 
 Once again we are excited to participate in the 2019 NSF [STEM for All Video Showcase](https://stemforall2019.videohall.com) to Highlight Innovations in STEM Education!
@@ -22,7 +22,7 @@ The theme for this year’s event is “Innovations in STEM Education.” Video 
 
 <figure>
 <a href="https://videohall.com/p/1392" target="_blank">
-<img src="{{ site.images }}/blog/2019-05-10-nsf-video-showcase-action-fractions.png" alt="Video thumbnail: two young students engaging in an unplugged programming activity using playing cards">
+<img src="{{ site.images }}/blog/2019-05-13-nsf-video-showcase-action-fractions.png" alt="Video thumbnail: two young students engaging in an unplugged programming activity using playing cards">
 <figcaption>Action Fractions! Integrating Math &amp; CT at Grades 3 &amp; 4</figcaption>
 </a>
 </figure>
