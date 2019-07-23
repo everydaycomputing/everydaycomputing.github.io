@@ -90,6 +90,11 @@ td.presentationInfo {
 
 }
 
+/* Creative theme color override */
+hr {
+  border-color: $bg-color-primary;
+}
+
 .center {
  text-align: center;
 }
