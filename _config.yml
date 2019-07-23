@@ -5,6 +5,7 @@ title:            Everyday Computing
 tagline:             
 url:              http://blog.everydaycomputing.org
 images:           https://github.com/everydaycomputing/everydaycomputing.github.io/raw/master/public/images/
+files:            https://github.com/everydaycomputing/everydaycomputing.github.io/raw/master/public/files/
 date_format:          '%B %d, %Y'
 
 # Jekyll configuration
