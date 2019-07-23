@@ -6,7 +6,7 @@ published: true
 author: Feiya Luo
 ---
 
-Author: Feiya Luo
+Author: Feiya Luo<br />
 Contributors (names in alphabetical order): John Hampton, Maya Israel, Todd Lash, Ruohan Liu, Michael McKelvey, Wei Yan.
 
 This Spring semester, we piloted a series of [Action Fractions](https://www.canonlab.org/actionfractionslessons) lessons with 4th-grade students. During the lessons, students built projects using computational thinking (CT) skills such as decomposition, sequencing, and repetition to solve math projects focused on fractions. As part of the effort to understand students’ thinking during problem solving, we conducted “cognitive interviews,” also known as the think-aloud protocol (TAP), to solicit students’ immediate thoughts and reactions during problem solving. In our case, the purposes were to a) have students verbalize their thinking as they solved the CT+fractions problems, b) identify learning gaps and pitfalls in regard to CT understanding, and c) help us validate the assessment items--i.e. to see if there is any misalignment between students’ actual problem-solving and the item developers’ intention. 
@@ -17,7 +17,7 @@ The assessment items used in the cognitive interviews were selected from the CT 
 
 Thirteen students participated in the cognitive interview. Each participant was presented with 3 items, which took them an average of 10-15 minutes to complete the items while verbalizing and sharing their thoughts. Each interview started with a brief introduction of what the participants were expected to do and the interviewer modeling what a fourth-grade fraction problem “think-aloud” looked like. With a total of 37 item responses, intriguing patterns emerged. The following are some highlights:
 
-## Sequencing:
+## Sequencing
 
 Sequencing turned out to be the concept that students were most comfortable with. Almost all responses to the sequence items (see Fig. 1 for example) were correct and students presented problem-solving rationale intended by the items.
 
@@ -44,9 +44,7 @@ Decomposition items received mixed responses. For example, while the 20-second a
     </audio>
 </figure>
 
-Audio file transcript:
-
-  Because someone already ran two. So, if we plus 3, that would equal 5. And, then add two more and that’d be 7. And, since it’s 7 miles and it’s a team, they would win because it equals up to 7.
+Audio file transcript: _Because someone already ran two. So, if we plus 3, that would equal 5. And, then add two more and that’d be 7. And, since it’s 7 miles and it’s a team, they would win because it equals up to 7._
 
 <figure><img src="{{ site.images }}blog/2019-07-17-figure-3.png" alt="Decomposition assessment item asking students 'You, Ariel, and Samir completed a 7-mile race as a team. You ran 2 of the 7 miles. How many miles could Juan and Samir have each run?' followed by a graphic showing a 2-column table with the headings 'One possible set of distances' and 'Another possible set of distances', each with the same 3 statements below them: Ariel ran ___ miles, Samir ran ___ miles. Together, they ran 7 miles. The first column has a number scratched out and the number 3 written in for Ariel's distance and 2 written in for Samir's distance. The second column has 4 written in for Ariel's distance and 1 written in for Samir's distance." title="Decomposition assessment item asking students 'You, Ariel, and Samir completed a 7-mile race as a team. You ran 2 of the 7 miles. How many miles could Juan and Samir have each run?' followed by a graphic showing a 2-column table with the headings 'One possible set of distances' and 'Another possible set of distances', each with the same 3 statements below them: Ariel ran ___ miles, Samir ran ___ miles. Together, they ran 7 miles. The first column has a number scratched out and the number 3 written in for Ariel's distance and 2 written in for Samir's distance. The second column has 4 written in for Ariel's distance and 1 written in for Samir's distance."><figcaption>Fig. 3 Sample decomposition item</figcaption></figure>
 
