@@ -56,4 +56,4 @@ The cognitive interview also revealed that the phrasing of items designed to ass
 
 Please note that the aforementioned assessment items are only in their “beta versions.” The findings of this study will be used by researchers on this project to revisit, redesign, and/or revise these items before large-scale administration in the following years. If you have any questions or concerns, please feel free to contact us for more details.
 
-_Acknowledgement: CTRL thanks Dr. Brian Douglas Gane (Visiting Research Assistant professor at UIC), Dr. James Pellegrino (Distinguished Professor at UIC), and Noor Elagha (doctoral student at UIC) for providing support to this study._
+_Acknowledgement: <abbr title="Creative Technology Research Lab">CTRL</abbr> thanks Dr. Brian Douglas Gane (Visiting Research Assistant professor at UIC), Dr. James Pellegrino (Distinguished Professor at UIC), and Noor Elagha (doctoral student at UIC) for providing support to this study._
