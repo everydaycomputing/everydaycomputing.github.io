@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="{{ site.images }}/blog/2019-08-07-staff-profile-john-hampton-headshot.jpg" style="float:right;padding:20px;"> 
+<img src="{{ site.images }}blog/2019-08-07-staff-profile-john-hampton-headshot.jpg" style="float:right;padding:20px;"> 
 
 **Name:** John Hampton
 
@@ -24,11 +24,11 @@ author:
 
 **What I do with my spare time:** I have a wife and two teenage children (14 and 17). I also have a small fur baby named Penny.
 
-![My fur baby, Penny]({{ site.images }}/blog/2019-08-07-staff-profile-john-hampton-penny.png "My fur baby, Penny")
+![My fur baby, Penny]({{ site.images }}blog/2019-08-07-staff-profile-john-hampton-penny.jpg "My fur baby, Penny")
 
 I enjoy reading fantasy novels, pondering the complex mysteries of the universe, and playing competitive tennis a few days a week.
 
-![Me winding up for a tennis serve]({{ site.images }}/blog/2019-08-07-staff-profile-john-hampton-tennis.png "Me winding up for a tennis serve")
+![Me winding up for a tennis serve]({{ site.images }}blog/2019-08-07-staff-profile-john-hampton-tennis.jpg "Me winding up for a tennis serve")
 
 ### Fun facts ###
 * I am currently working on my 3rd degree from <abbr title="University of Florida">UF</abbr> (BA in ’06 and M.Ed. in ’07)
