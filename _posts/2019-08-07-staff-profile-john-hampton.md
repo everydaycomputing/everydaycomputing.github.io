@@ -18,9 +18,9 @@ author:
 
 <!--excerpt-->
 
-**Why is LTEC my jam?** As an ex-teacher, I love seeing how multiple, disparate subjects can be taught together for the benefit of students and teachers. In my own English classroom, I enjoyed combining art, cinema, history, and other mixed media into my curriculum. LTEC — with its goal of combining math and CT skills — also fits with one of my research interests on how students identity is constructed through their schooling.
+**Why is LTEC my jam?** As an ex-teacher, I love seeing how multiple, disparate subjects can be taught together for the benefit of students and teachers. In my own English classroom, I enjoyed combining art, cinema, history, and other mixed media into my curriculum. <abbr title="Learning Trajectories for Everyday Computing">LTEC</abbr> — with its goal of combining math and <abbr title="Computational Thinking">CT</abbr> skills — also fits with one of my research interests on how students identity is constructed through their schooling.
 
-**My work:** On the LTEC, CTRL, and TACTIC teams, I primarily help to develop teacher and student lessons for math and CT integration. I also help with the creative processes of movie-making and graphic design.
+**My work:** On the <abbr title="Learning Trajectories for Everyday Computing">LTEC</abbr>, <abbr title="Creative Technology Research Lab">CTRL</abbr>, and <abbr title="Teaching All Computational Thinking through Inclusion and Collaboration">TACTIC<abbr> teams, I primarily help to develop teacher and student lessons for math and CT integration. I also help with the creative processes of movie-making and graphic design.
 
 **What I do with my spare time:** I have a wife and two teenage children (14 and 17). I also have a small fur baby named Penny.
 
