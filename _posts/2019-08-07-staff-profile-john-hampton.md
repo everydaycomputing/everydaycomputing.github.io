@@ -36,5 +36,5 @@ I enjoy reading fantasy novels, pondering the complex mysteries of the universe,
 * I met George Bush Sr. on a plane in the late 90s, while he was on his way to skydive in Las Vegas, NV
 
 ### Connect with me: ###
-* Email: [ufxero@ufl.edu](ufxero@ufl.edu)
+* Email: [ufxero@ufl.edu](mailto:ufxero@ufl.edu)
 * Twitter: [@hampthephd](https://twitter.com/hampthephd)

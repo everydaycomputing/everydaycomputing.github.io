@@ -31,4 +31,4 @@ author:
 * I always attempt to balance an egg on its end during the equinoxes. (Give it a go, it’s sometimes amazing.) 
 
 ### Connect with me: ###
-* Email: jrocke@illinois.edu
+* Email: [jrocke@illinois.edu](mailto:jrocke@illinois.edu)

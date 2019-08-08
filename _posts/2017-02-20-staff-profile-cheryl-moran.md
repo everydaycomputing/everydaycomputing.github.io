@@ -39,4 +39,4 @@ with learning disabilities and attention deficit disorders.
 **Connect with me**:
 * UChicago STEM Ed staff profile: http://stemeducation.uchicago.edu/staff/cheryl-moran/
 * LinkedIn: [profile](https://www.linkedin.com/in/cheryl-moran-483a8824)
-* Email: [cgmoran@uchicago.edu](cgmoran@uchicago.edu)
+* Email: [cgmoran@uchicago.edu](mailto:cgmoran@uchicago.edu)

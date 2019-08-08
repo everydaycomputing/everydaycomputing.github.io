@@ -36,5 +36,5 @@ author:
 
 ### Connect with me: ###
 * Twitter: [@misrael09](http://twitter.com/misrael09)
-* Email: [misrael@illinois.edu](mailto://misrael@illinois.edu)
+* Email: [misrael@illinois.edu](mailto:misrael@illinois.edu)
 * [UIUC staff profile](http://education.illinois.edu/faculty/misrael)

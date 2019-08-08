@@ -46,5 +46,5 @@ When I can, I also like to use my crafting prowess for good causes. In particula
 ### Connect with me ###
 * Twitter: @ChiTownKatie
 * LinkedIn: [profile](https://www.linkedin.com/in/katie-rich-1333719b)
-* Email: [kmrich@uchicago.edu](kmrich@uchicago.edu)
+* Email: [kmrich@uchicago.edu](mailto:kmrich@uchicago.edu)
 * UChicago STEM Ed staff profile: [read it](http://stemeducation.uchicago.edu/staff/katie-rich/)

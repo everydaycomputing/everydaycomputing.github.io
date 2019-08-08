@@ -33,5 +33,5 @@ author:
 
 
 ### Connect with me ###
-* Email: dmfranklin@uchicago.edu
-* [UChicago STEM Ed](http://stemeducation.uchicago.edu/staff/diana-franklin/) staff profile
+* Email: [dmfranklin@uchicago.edu](mailto:dmfranklin@uchicago.edu)
+* [UChicago STEM Ed staff profile](http://stemeducation.uchicago.edu/staff/diana-franklin/)

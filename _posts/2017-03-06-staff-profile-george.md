@@ -30,4 +30,4 @@ author:
 
 ### Connect with me ###
 * Twitter: @mstegeorge
-* Email: [reese@illinois.edu](reese@illinois.edu)
+* Email: [reese@illinois.edu](mailto:reese@illinois.edu)

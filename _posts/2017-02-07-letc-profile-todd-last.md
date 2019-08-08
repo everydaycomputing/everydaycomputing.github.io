@@ -31,4 +31,4 @@ author:
 
 * Twitter: [@Todd_Lash](http://twitter/todd_lash)
 * LinkedIn: [profile](https://www.linkedin.com/in/lashtodd/)
-* Email: [toddlash.edu@gmail.com](toddlash.edu@gmail.com)
+* Email: [toddlash.edu@gmail.com](mailto:toddlash.edu@gmail.com)
