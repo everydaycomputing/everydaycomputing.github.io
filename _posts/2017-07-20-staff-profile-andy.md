@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="{{ site.images }}/blog/andy_isaacs-2.jpg" style="float:right;padding:20px;"> 
+<img src="{{ site.images }}/blog/andy_isaacs-2.jpg" class="post-main-image-right"> 
 
 **Name:** Andy Isaacs
 

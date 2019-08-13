@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="http://everydaycomputing.org/static/img/portfolio/reese.jpg" style="float:right;padding:20px;">
+<img src="http://everydaycomputing.org/static/img/portfolio/reese.jpg" class="post-main-image-right">
 
 **Name:** George Reese
 

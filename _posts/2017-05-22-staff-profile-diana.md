@@ -5,7 +5,7 @@ date: 2017-05-22
 published: true
 author:
 ---
- <img src="http://everydaycomputing.org/static/img/portfolio/DianaCropped.jpg" style="float:right;padding:20px;">
+ <img src="http://everydaycomputing.org/static/img/portfolio/DianaCropped.jpg" class="post-main-image-right">
 
 **Name:** Diana Franklin
 

@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="{{ site.images }}/blog/2017-02-20-staff-profile-cheryl-moran-cc84d.png" style="float:right;padding:20px;">
+<img src="{{ site.images }}/blog/2017-02-20-staff-profile-cheryl-moran-cc84d.png" class="post-main-image-right">
 
 **Name**: Cheryl Moran
 

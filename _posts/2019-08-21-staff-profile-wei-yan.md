@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="{{ site.images }}blog/2019-08-21-staff-profile-wei-yan-headshot.jpg" style="float:right;padding:20px;"> 
+<img src="{{ site.images }}blog/2019-08-21-staff-profile-wei-yan-headshot.jpg" class="post-main-image-right"> 
 
 ### Name ###
 

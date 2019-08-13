@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="{{ site.images }}/blog/judy-rocke-2.jpg" style="float:right;padding:20px;"> 
+<img src="{{ site.images }}/blog/judy-rocke-2.jpg" class="post-main-image-right"> 
 
 **Name:** Judy Rocke
 
