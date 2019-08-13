@@ -5,7 +5,7 @@ date: 2017-02-07
 published: true
 author:
 ---
-<img src="{{ site.images }}/blog/2017-02-07-letc-profile-todd-last-433e3.png">
+<img src="{{ site.images }}/blog/2017-02-07-letc-profile-todd-last-433e3.png" class="post-main-image-right">
 
 **Name**: Todd Lash
 
