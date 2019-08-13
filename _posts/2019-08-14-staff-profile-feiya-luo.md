@@ -2,7 +2,7 @@
 layout: post
 title: 'LTEC Staff Profile: Feiya Luo'
 date: 2019-08-14
-published: false
+published: true
 author:
 ---
 
