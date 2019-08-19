@@ -4,6 +4,7 @@ title: 'LTEC Staff Profile: Feiya Luo'
 date: 2019-08-14
 published: true
 author:
+redirect_from: "/2019/08/07/staff-profile-feiya-luo/"
 ---
 
 <img src="{{ site.images }}blog/2019-08-14-staff-profile-feiya-luo-headshot.jpg" class="post-main-image-right">

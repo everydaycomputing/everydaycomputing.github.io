@@ -41,6 +41,9 @@ sharing:
     google_plus: true
     reddit: true
 
+# Plugins
+plugins:
+  - jekyll-redirect-from
 
 # Assets
 #
