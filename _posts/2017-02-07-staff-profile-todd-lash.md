@@ -5,7 +5,7 @@ date: 2017-02-07
 published: true
 author:
 ---
-<img src="{{ site.images }}/blog/2017-02-07-letc-profile-todd-last-433e3.png">
+<img src="{{ site.images }}/blog/2017-02-07-letc-profile-todd-last-433e3.png" class="post-main-image-right">
 
 **Name**: Todd Lash
 
@@ -31,4 +31,4 @@ author:
 
 * Twitter: [@Todd_Lash](http://twitter/todd_lash)
 * LinkedIn: [profile](https://www.linkedin.com/in/lashtodd/)
-* Email: [toddlash.edu@gmail.com](toddlash.edu@gmail.com)
+* Email: [toddlash.edu@gmail.com](mailto:toddlash.edu@gmail.com)

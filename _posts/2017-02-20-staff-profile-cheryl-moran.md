@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="{{ site.images }}/blog/2017-02-20-staff-profile-cheryl-moran-cc84d.png" style="float:right;padding:20px;">
+<img src="{{ site.images }}/blog/2017-02-20-staff-profile-cheryl-moran-cc84d.png" class="post-main-image-right">
 
 **Name**: Cheryl Moran
 
@@ -39,4 +39,4 @@ with learning disabilities and attention deficit disorders.
 **Connect with me**:
 * UChicago STEM Ed staff profile: http://stemeducation.uchicago.edu/staff/cheryl-moran/
 * LinkedIn: [profile](https://www.linkedin.com/in/cheryl-moran-483a8824)
-* Email: [cgmoran@uchicago.edu](cgmoran@uchicago.edu)
+* Email: [cgmoran@uchicago.edu](mailto:cgmoran@uchicago.edu)

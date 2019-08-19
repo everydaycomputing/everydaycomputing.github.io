@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="http://everydaycomputing.org/static/img/portfolio/rich.jpg" style="float:right;padding:20px;">
+<img src="http://everydaycomputing.org/static/img/portfolio/rich.jpg" class="post-main-image-right">
 Hello, everyone. In an effort to add variety and interest to our blog posts, we’re starting a new series of staff profiles. We hope you’ll enjoy learning a little bit about us and be inspired to share a bit about yourselves and your interests in the comment section.
 
 <!--excerpt-->
@@ -46,5 +46,5 @@ When I can, I also like to use my crafting prowess for good causes. In particula
 ### Connect with me ###
 * Twitter: @ChiTownKatie
 * LinkedIn: [profile](https://www.linkedin.com/in/katie-rich-1333719b)
-* Email: [kmrich@uchicago.edu](kmrich@uchicago.edu)
+* Email: [kmrich@uchicago.edu](mailto:kmrich@uchicago.edu)
 * UChicago STEM Ed staff profile: [read it](http://stemeducation.uchicago.edu/staff/katie-rich/)

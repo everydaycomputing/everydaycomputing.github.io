@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="{{ site.images }}/blog/judy-rocke-2.jpg" style="float:right;padding:20px;"> 
+<img src="{{ site.images }}/blog/judy-rocke-2.jpg" class="post-main-image-right"> 
 
 **Name:** Judy Rocke
 
@@ -31,4 +31,4 @@ author:
 * I always attempt to balance an egg on its end during the equinoxes. (Give it a go, it’s sometimes amazing.) 
 
 ### Connect with me: ###
-* Email: jrocke@illinois.edu
+* Email: [jrocke@illinois.edu](mailto:jrocke@illinois.edu)
