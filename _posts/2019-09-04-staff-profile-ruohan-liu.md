@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LTEC Staff Profile: Ruohan Liu'
-date: 2019-08-28
+date: 2019-09-04
 published: true
 author:
 ---
