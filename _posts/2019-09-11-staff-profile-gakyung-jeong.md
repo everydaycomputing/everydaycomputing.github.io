@@ -24,7 +24,7 @@ I received a Bachelor's degree in Biology and Master's in Special Education from
 
 ### Why is LTEC my jam? ###
 
-With limited experience in CS education, LTEC gives me eye-opening opportunities. As a special educator, I enjoyed how students with disabilities engaged in CS content and developed social interaction with their peers.
+With limited experience in CS education, LTEC gives me eye-opening opportunities. As a special educator, I enjoyed how students with disabilities engaged in <abbr title="Computer Science">CS</abbr> content and developed social interaction with their peers.
 
 ### My work ###
 
