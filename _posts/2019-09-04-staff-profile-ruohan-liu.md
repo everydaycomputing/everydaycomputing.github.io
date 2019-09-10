@@ -6,7 +6,7 @@ published: true
 author:
 ---
 
-<img src="{{ site.images }}blog/2019-08-28-staff-profile-ruohan-liu-headshot.jpg" class="post-main-image-right">
+<img src="{{ site.images }}blog/2019-09-04-staff-profile-ruohan-liu-headshot.jpg" class="post-main-image-right">
 
 ### Name ###
 
