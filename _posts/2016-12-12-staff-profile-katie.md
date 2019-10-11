@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LTEC Staff Profile: Katie Rich'
+title: 'LTEC Staff Profile: Katie Rich (2016)'
 date: 2016-12-12
 published: true
 author:
