@@ -25,10 +25,7 @@
 
 // Meta data line below post title
 .post-date {
-  display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: $gray-3;
 }
 
 // Main image for a post
@@ -85,9 +82,11 @@
 /* This is a partial SCSS file */
 
 div.sharing {
-    $icon-standard-color: lighten(black, 15%);
+    $icon-standard-color: lighten(black, 20%);
     margin: 0;
     padding: 0;
+    text-align: center;
+    height: 5rem;
 
     ul {
         margin: 0;
