@@ -9,8 +9,10 @@ $orange: #d28445;
 $yellow: #f4bf75;
 $green: #90a959;
 $cyan: #75b5aa;
-$blue: #268bd2;
+$blue: #337ab7;
+// $blue: #268bd2;
 // $blue: #6a9fb5;
+$blue-offset: #286090;
 $brown: #8f5536;
 
 $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
@@ -20,8 +22,9 @@ $root-line-height: 1.5;
 $body-color: #515151;
 $body-bg: #fff;
 $link-color: $blue;
+$link-hover-color: $blue-offset;
 
-$border-color: #e5e5e5;
+$border-color: #251919;
 
 $large-breakpoint: 38em;
 $large-font-size: 20px;
