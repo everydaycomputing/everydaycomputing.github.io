@@ -9,3 +9,31 @@
   color: #717171;
   background-color: #f9f9f9;
 }
+
+.messageSuccess,
+.messageWarning,
+.messageFailure {
+    font-weight: bold;
+    border: 2px solid;
+    border-radius: .2em;
+    margin: .5em 0;
+    padding: .5em;
+}
+
+.messageSuccess {
+  background-color: #F3FAEF;
+  border-color: #77B259;
+  color: #507e3a;
+}
+
+.messageWarning {
+  background-color: #FDF8ED;
+  border-color: #E09600;
+  color: #8f5f00;
+}
+
+.messageFailure {
+  background-color: #FCF4F2;
+  border-color: #E62600;
+  color: #941900;
+}

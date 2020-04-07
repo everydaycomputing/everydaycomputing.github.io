@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 'LTEC Staff Profile: Katie Rich'
+title: 'LTEC Staff Profile: Katie Rich (2016)'
 date: 2016-12-12
 published: true
 author:
 ---
+
+<div class="messageWarning">Katie has an updated profile! Check out <a href="/2019/10/10/staff-profile-katie-rich">her current profile as of October 2019!</a></div>
 
 <img src="http://everydaycomputing.org/static/img/portfolio/rich.jpg" class="post-main-image-right">
 Hello, everyone. In an effort to add variety and interest to our blog posts, we’re starting a new series of staff profiles. We hope you’ll enjoy learning a little bit about us and be inspired to share a bit about yourselves and your interests in the comment section.
