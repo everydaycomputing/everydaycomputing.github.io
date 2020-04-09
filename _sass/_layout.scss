@@ -103,12 +103,34 @@ a.toTop:focus {
 }
 
 footer {
-  border-top: 4px solid #f05f40;
-  margin-bottom: 2rem;
+  font-size: 1.5em;
+  border-top: 1px solid #c0c0c0;
 }
 
-footer > container {
-  padding: 10px;
+footer p {
+  margin: 0;
+}
+footer .container {
+  padding: 20px;
+}
+
+footer .container > .row {
+  display: flex;
+  align-items: center;
+
+}
+
+footer .nsf {
+  margin: 1em 0 3em 0;
+}
+
+footer .nsf .nsf-logo img {
+  width: 75%;
+}
+
+footer .social-media a {
+  text-decoration: none;
+  margin: 0 0.25em;
 }
 
 /* Creative theme color override */
