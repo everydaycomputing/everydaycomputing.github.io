@@ -3,65 +3,67 @@
 // Styles for managing the structural hierarchy of the site.
 
 .navbar-default .navbar-header .navbar-brand {
-  /* color: #337ab7; */
+  color: $link-color;
+  /* color: white; */
+}
+
+.navbar-default .navbar-header .navbar-brand:hover,
+.navbar-default .navbar-header .navbar-brand:focus {
   color: white;
+  background-color: $bg-color-offset;
 }
-  
-  .navbar-default .navbar-header .navbar-brand:hover,
-  .navbar-default .navbar-header .navbar-brand:focus {
+
+.navbar-default .nav > li>a:hover,
+.navbar-default .nav>li>a:focus:hover,
+.navbar-default .nav>li>a:focus {
+  color: white;
+  background-color: $bg-color-offset;
+}
+
+.navbar-default .nav > li.active>a,
+.navbar-default .nav>li.active>a:focus {
+  /* color: #337ab7!important; */
+  color: white;
+  background-color: $bg-color-primary;
+}
+
+@media (min-width: 768px) {
+  header .header-content .header-content-inner {
+    max-width: 900px;
+  }
+  .navbar-default {
+      background-color: $bg-color-primary;
+      /* background-color: rgba(40,96,144,1); */
+      /* background-color: rgba(40,96,144,0.5); */
+      /* background-color: rgba(255,255,255,0.5); */
+      /* background-color: rgba(37,63,107,.5); */
+  }
+  .navbar-default .nav > li>a, .navbar-default .nav>li>a:focus {
+    color: white;
+  }
+  .navbar-default .navbar-header .navbar-brand {
+    color: white;
+  }
+
+
+  .navbar-default.affix .navbar-header .navbar-brand {
+    font-size: 14px;
+    color: $link-hover-color;
+  }
+
+  .navbar-default.affix .navbar-header .navbar-brand:hover,
+  .navbar-default.affix .navbar-header .navbar-brand:focus {
     color: white;
     background-color: $bg-color-offset;
-}
-  
-  .navbar-default .nav > li>a:hover,
-  .navbar-default .nav>li>a:focus {
+  }
+
+  .navbar-default.affix .nav > li>a:hover,
+  .navbar-default.affix .nav>li>a:focus:hover,
+  .navbar-default.affix .nav>li>a:focus {
     color: white;
     background-color: $bg-color-offset;
+  }
 }
-  
-  .navbar-default .nav > li.active>a,
-  .navbar-default .nav>li.active>a:focus {
-    /* color: #337ab7!important; */
-    color: white;
-    background-color: $bg-color-primary;
-  }
-  
-  @media (min-width: 768px) {
-    header .header-content .header-content-inner {
-        max-width: 900px;
-    }
-    .navbar-default {
-        background-color: $bg-color-primary;
-        /* background-color: rgba(40,96,144,1); */
-        /* background-color: rgba(40,96,144,0.5); */
-  /*         background-color: rgba(255,255,255,0.5); */
-  /*         background-color: rgba(37,63,107,.5); */
-    }
-    .navbar-default .nav > li>a, .navbar-default .nav>li>a:focus {
-      color: white;
-    }
-    .navbar-default .navbar-header .navbar-brand {
-      color: white;
-    }
-  
-  
-    .navbar-default.affix .navbar-header .navbar-brand {
-      font-size: 14px;
-      color: $link-hover-color;
-    }
-  
-    .navbar-default.affix .navbar-header .navbar-brand:hover,
-    .navbar-default.affix .navbar-header .navbar-brand:focus {
-      color: white;
-      background-color: $bg-color-offset;
-    }
-  
-    .navbar-default.affix .nav > li>a:hover,
-    .navbar-default.affix .nav>li>a:focus {
-      color: white;
-      background-color: $bg-color-offset;
-    }
-  }
 
 .container {
   max-width: 38rem;
