@@ -3,11 +3,11 @@ layout: default
 ---
 
 <article class="post">
-  <h2 class="post-title">{{ page.title }}</h2>
+  <h1 class="post-title">{{ page.title }}</h1>
 <!--
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
 -->
-    <h3 class="post-date">{{ page.date |  date: '%B %d, %Y' }} {{page.author}}</h3>
+    <h2 class="post-date">{{ page.date |  date: '%B %d, %Y' }} {{page.author}}</h2>
 
   {{ content }}
 
